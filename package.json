@@ -1,0 +1,1 @@
+{"name":"bar-tools-directory","private":true,"scripts":{"build":"node build.js"}}

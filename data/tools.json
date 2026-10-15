@@ -1,0 +1,370 @@
+[
+  {
+    "slug": "toast",
+    "name": "Toast",
+    "category": "pos",
+    "description": "Restaurant-specific cloud POS with handhelds, online ordering, payroll and kitchen display add-ons.",
+    "pricing": "Tiered plans; quote-based for full setups",
+    "url": "https://pos.toasttab.com"
+  },
+  {
+    "slug": "square-for-restaurants",
+    "name": "Square for Restaurants",
+    "category": "pos",
+    "description": "Restaurant POS from Square with tab management, coursing, KDS and integrated payments.",
+    "pricing": "Free plan available; paid tiers",
+    "url": "https://squareup.com/us/en/point-of-sale/restaurants"
+  },
+  {
+    "slug": "clover",
+    "name": "Clover",
+    "category": "pos",
+    "description": "Countertop and handheld POS hardware from Fiserv with apps for table service and bars.",
+    "pricing": "Hardware + monthly software plans",
+    "url": "https://www.clover.com"
+  },
+  {
+    "slug": "lightspeed-restaurant",
+    "name": "Lightspeed Restaurant",
+    "category": "pos",
+    "description": "Cloud POS for full-service restaurants and bars with menu, floor plan and reporting tools.",
+    "pricing": "Quote-based",
+    "url": "https://www.lightspeedhq.com/pos/restaurant/"
+  },
+  {
+    "slug": "touchbistro",
+    "name": "TouchBistro",
+    "category": "pos",
+    "description": "iPad-based restaurant POS with table management, reservations and online ordering.",
+    "pricing": "Quote-based",
+    "url": "https://www.touchbistro.com"
+  },
+  {
+    "slug": "spoton",
+    "name": "SpotOn",
+    "category": "pos",
+    "description": "Restaurant and bar POS with handhelds, online ordering, loyalty and reporting.",
+    "pricing": "Quote-based",
+    "url": "https://www.spoton.com"
+  },
+  {
+    "slug": "revel-systems",
+    "name": "Revel Systems",
+    "category": "pos",
+    "description": "iPad POS for multi-location and quick-service restaurants with inventory and analytics.",
+    "pricing": "Quote-based",
+    "url": "https://revelsystems.com"
+  },
+  {
+    "slug": "oracle-micros-simphony",
+    "name": "Oracle MICROS Simphony",
+    "category": "pos",
+    "description": "Enterprise cloud POS used by hotels, stadiums and large restaurant groups.",
+    "pricing": "Enterprise / quote-based",
+    "url": "https://www.oracle.com/food-beverage/"
+  },
+  {
+    "slug": "arryved",
+    "name": "Arryved",
+    "category": "pos",
+    "description": "POS built for breweries, taprooms, wineries and craft beverage venues.",
+    "pricing": "Quote-based",
+    "url": "https://www.arryved.com"
+  },
+  {
+    "slug": "bevspot",
+    "name": "BevSpot",
+    "category": "inventory",
+    "description": "Beverage inventory, ordering and cost analytics platform for bars and restaurants.",
+    "pricing": "See website",
+    "url": "https://www.bevspot.com"
+  },
+  {
+    "slug": "backbar",
+    "name": "Backbar",
+    "category": "inventory",
+    "description": "Bar inventory and ordering software with a free tier aimed at bar teams.",
+    "pricing": "Free tier; paid upgrades",
+    "url": "https://www.backbar.com"
+  },
+  {
+    "slug": "partender",
+    "name": "Partender",
+    "category": "inventory",
+    "description": "Fast bar inventory app using a slider to estimate partial bottles.",
+    "pricing": "See website",
+    "url": "https://partender.com"
+  },
+  {
+    "slug": "marketman",
+    "name": "MarketMan",
+    "category": "inventory",
+    "description": "Restaurant inventory, purchasing and supplier management in the cloud.",
+    "pricing": "Subscription tiers",
+    "url": "https://www.marketman.com"
+  },
+  {
+    "slug": "xtrachef-by-toast",
+    "name": "xtraCHEF by Toast",
+    "category": "inventory",
+    "description": "Invoice processing, recipe costing and food/beverage cost management, now part of Toast.",
+    "pricing": "See website",
+    "url": "https://www.xtrachef.com"
+  },
+  {
+    "slug": "restaurant365",
+    "name": "Restaurant365",
+    "category": "inventory",
+    "description": "Restaurant accounting, inventory, scheduling and payroll in one back-office platform.",
+    "pricing": "Subscription; quote-based",
+    "url": "https://www.restaurant365.com"
+  },
+  {
+    "slug": "craftable",
+    "name": "Craftable",
+    "category": "inventory",
+    "description": "Hospitality back-office suite for inventory, purchasing, accounting and bar management.",
+    "pricing": "Quote-based",
+    "url": "https://craftable.com"
+  },
+  {
+    "slug": "wisk",
+    "name": "WISK",
+    "category": "inventory",
+    "description": "Bar and restaurant inventory with Bluetooth scale support, ordering and invoice scanning.",
+    "pricing": "Subscription tiers",
+    "url": "https://www.wisk.ai"
+  },
+  {
+    "slug": "sculpture-hospitality",
+    "name": "Sculpture Hospitality",
+    "category": "inventory",
+    "description": "Franchise network offering beverage and food inventory audits and software.",
+    "pricing": "Service-based pricing",
+    "url": "https://www.sculpturehospitality.com"
+  },
+  {
+    "slug": "apicbase",
+    "name": "Apicbase",
+    "category": "inventory",
+    "description": "Food management platform for recipes, inventory, procurement and menu engineering.",
+    "pricing": "Quote-based",
+    "url": "https://get.apicbase.com"
+  },
+  {
+    "slug": "meez",
+    "name": "meez",
+    "category": "inventory",
+    "description": "Recipe management and culinary/bar recipe-costing platform for professional kitchens.",
+    "pricing": "Free + paid plans",
+    "url": "https://www.getmeez.com"
+  },
+  {
+    "slug": "7shifts",
+    "name": "7shifts",
+    "category": "scheduling",
+    "description": "Restaurant scheduling, team communication, time clock and tip pooling.",
+    "pricing": "Free plan; paid tiers",
+    "url": "https://www.7shifts.com"
+  },
+  {
+    "slug": "fourth-hotschedules",
+    "name": "Fourth (HotSchedules)",
+    "category": "scheduling",
+    "description": "Workforce and inventory management for hospitality, including HotSchedules scheduling.",
+    "pricing": "Enterprise / quote-based",
+    "url": "https://www.fourth.com"
+  },
+  {
+    "slug": "homebase",
+    "name": "Homebase",
+    "category": "scheduling",
+    "description": "Scheduling, time clock, hiring and payroll for small hourly teams.",
+    "pricing": "Free plan; paid tiers",
+    "url": "https://joinhomebase.com"
+  },
+  {
+    "slug": "when-i-work",
+    "name": "When I Work",
+    "category": "scheduling",
+    "description": "Employee scheduling, time tracking and team messaging for shift-based businesses.",
+    "pricing": "Per-user subscription",
+    "url": "https://wheniwork.com"
+  },
+  {
+    "slug": "sling",
+    "name": "Sling",
+    "category": "scheduling",
+    "description": "Shift scheduling, time clock and labor cost tools (owned by Toast).",
+    "pricing": "Free plan; paid tiers",
+    "url": "https://getsling.com"
+  },
+  {
+    "slug": "deputy",
+    "name": "Deputy",
+    "category": "scheduling",
+    "description": "Shift scheduling, time and attendance and labor compliance for hourly workforces.",
+    "pricing": "Per-user subscription",
+    "url": "https://www.deputy.com"
+  },
+  {
+    "slug": "harri",
+    "name": "Harri",
+    "category": "scheduling",
+    "description": "Hospitality workforce platform: hiring, scheduling, time & attendance and engagement.",
+    "pricing": "Quote-based",
+    "url": "https://harri.com"
+  },
+  {
+    "slug": "shiftnote",
+    "name": "ShiftNote",
+    "category": "scheduling",
+    "description": "Manager logbook, scheduling and employee communication for restaurants.",
+    "pricing": "Subscription",
+    "url": "https://www.shiftnote.com"
+  },
+  {
+    "slug": "binwise",
+    "name": "BinWise",
+    "category": "wine-bar",
+    "description": "Bar and wine inventory, digital wine lists and beverage program management.",
+    "pricing": "See website",
+    "url": "https://www.binwise.com"
+  },
+  {
+    "slug": "uncorkd",
+    "name": "Uncorkd",
+    "category": "wine-bar",
+    "description": "Digital beverage menus on tablets and QR codes for wine, beer and cocktails.",
+    "pricing": "Subscription",
+    "url": "https://www.uncorkd.biz"
+  },
+  {
+    "slug": "sevenfifty",
+    "name": "SevenFifty",
+    "category": "wine-bar",
+    "description": "Trade marketplace connecting beverage buyers with distributors and producers.",
+    "pricing": "Free for buyers",
+    "url": "https://www.sevenfifty.com"
+  },
+  {
+    "slug": "provi",
+    "name": "Provi",
+    "category": "wine-bar",
+    "description": "B2B marketplace for ordering beer, wine and spirits from distributors.",
+    "pricing": "Free for retailers",
+    "url": "https://www.provi.com"
+  },
+  {
+    "slug": "wine-searcher",
+    "name": "Wine-Searcher",
+    "category": "wine-bar",
+    "description": "Wine search engine for prices, availability and critic scores worldwide.",
+    "pricing": "Free; Pro subscription",
+    "url": "https://www.wine-searcher.com"
+  },
+  {
+    "slug": "vivino",
+    "name": "Vivino",
+    "category": "wine-bar",
+    "description": "Consumer wine app and marketplace with label scanning and community ratings.",
+    "pricing": "Free app",
+    "url": "https://www.vivino.com"
+  },
+  {
+    "slug": "cellartracker",
+    "name": "CellarTracker",
+    "category": "wine-bar",
+    "description": "Wine cellar management and community tasting-note database.",
+    "pricing": "Free; optional paid features",
+    "url": "https://www.cellartracker.com"
+  },
+  {
+    "slug": "untappd-for-business",
+    "name": "Untappd for Business",
+    "category": "wine-bar",
+    "description": "Beer menu management and publishing tools linked to the Untappd app.",
+    "pricing": "Subscription",
+    "url": "https://untappd.com/business"
+  },
+  {
+    "slug": "preferabli",
+    "name": "Preferabli",
+    "category": "wine-bar",
+    "description": "AI-powered wine, beer and spirits recommendation and product data platform.",
+    "pricing": "See website",
+    "url": "https://preferabli.com"
+  },
+  {
+    "slug": "slang-ai",
+    "name": "Slang.ai",
+    "category": "ai",
+    "description": "AI voice assistant that answers restaurant phone calls and handles reservations and FAQs.",
+    "pricing": "Subscription",
+    "url": "https://www.slang.ai"
+  },
+  {
+    "slug": "conversenow",
+    "name": "ConverseNow",
+    "category": "ai",
+    "description": "AI voice ordering assistant for restaurant phone and drive-thru orders.",
+    "pricing": "Quote-based",
+    "url": "https://conversenow.ai"
+  },
+  {
+    "slug": "popmenu",
+    "name": "Popmenu",
+    "category": "ai",
+    "description": "Restaurant website, online ordering and AI phone answering/marketing tools.",
+    "pricing": "Subscription tiers",
+    "url": "https://get.popmenu.com"
+  },
+  {
+    "slug": "presto",
+    "name": "Presto",
+    "category": "ai",
+    "description": "Drive-thru voice AI and guest technology for restaurant chains.",
+    "pricing": "Enterprise / quote-based",
+    "url": "https://presto.com"
+  },
+  {
+    "slug": "owner-com",
+    "name": "Owner.com",
+    "category": "ai",
+    "description": "AI-driven websites, online ordering and marketing for independent restaurants.",
+    "pricing": "Subscription",
+    "url": "https://www.owner.com"
+  },
+  {
+    "slug": "tenzo",
+    "name": "Tenzo",
+    "category": "ai",
+    "description": "Restaurant analytics with AI sales and labor forecasting.",
+    "pricing": "Quote-based",
+    "url": "https://www.gotenzo.com"
+  },
+  {
+    "slug": "precitaste",
+    "name": "PreciTaste",
+    "category": "ai",
+    "description": "AI kitchen prep and production planning using demand forecasting and vision.",
+    "pricing": "Enterprise / quote-based",
+    "url": "https://www.precitaste.com"
+  },
+  {
+    "slug": "clearcogs",
+    "name": "ClearCOGS",
+    "category": "ai",
+    "description": "AI forecasting for restaurant prep, ordering and waste reduction.",
+    "pricing": "Quote-based",
+    "url": "https://www.clearcogs.com"
+  },
+  {
+    "slug": "lineup-ai",
+    "name": "Lineup.ai",
+    "category": "ai",
+    "description": "AI sales and labor demand forecasting for restaurants.",
+    "pricing": "Quote-based",
+    "url": "https://www.lineup.ai"
+  }
+]
