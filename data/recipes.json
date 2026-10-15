@@ -1,0 +1,288 @@
+[
+  {
+    "slug": "pumpkin-spice-espresso-martini",
+    "name": "Pumpkin Spice Espresso Martini",
+    "why_trending": "Bartenders are giving the espresso martini a pumpkin-spice fall twist. F&B Magazine calls the espresso martini's dominance unslowing and cites Delilah Miami's Pumpkin Espresso Martini; Delish quotes Pamela Wiznitzer making one with homemade pumpkin spice syrup and vodka.",
+    "ingredients": [
+      "Vodka",
+      "Pumpkin spice syrup",
+      "Coffee liqueur",
+      "Espresso",
+      "Garnish: espresso beans"
+    ],
+    "spec_note": "Ingredients as served at Delilah Miami (per F&B Magazine); no measurements published.",
+    "sources": [
+      {
+        "name": "Food & Beverage Magazine, Fall Cocktail Trends 2026",
+        "url": "https://www.fb101.com/fall-cocktail-trends-2026-autumn-flavor-sips"
+      },
+      {
+        "name": "Delish, The Fall Cocktails Worth Ordering This Season (Sep 15, 2026)",
+        "url": "https://www.delish.com/food/a73726105/best-fall-cocktails-bartenders/"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "amalfi-spritz-pear-spritz",
+    "name": "Amalfi Spritz (Pear Spritz)",
+    "why_trending": "Pear is called fall 2026's 'understated star', carrying both spritzes and stirred drinks. Served at Donna Mare Italian Chophouse, Miami Beach.",
+    "ingredients": [
+      "Mionetto prosecco",
+      "Italicus bergamot liqueur",
+      "Aperol",
+      "Pear pur\u00e9e"
+    ],
+    "spec_note": "Ingredients per F&B Magazine; no measurements published.",
+    "sources": [
+      {
+        "name": "Food & Beverage Magazine, Fall Cocktail Trends 2026",
+        "url": "https://www.fb101.com/fall-cocktail-trends-2026-autumn-flavor-sips"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "tuscan-harvest-old-fashioned",
+    "name": "Tuscan Harvest Old Fashioned",
+    "why_trending": "Example of pear-season, spirit-forward fall riffs on the Old Fashioned, served at Donna Mare Italian Chophouse.",
+    "ingredients": [
+      "Bulleit bourbon",
+      "Nocino walnut liqueur",
+      "Demerara syrup",
+      "Bitters"
+    ],
+    "spec_note": "Ingredients per F&B Magazine; no measurements published.",
+    "sources": [
+      {
+        "name": "Food & Beverage Magazine, Fall Cocktail Trends 2026",
+        "url": "https://www.fb101.com/fall-cocktail-trends-2026-autumn-flavor-sips"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "crimson-orchid",
+    "name": "Crimson Orchid",
+    "why_trending": "Apple 'remains the workhorse of the season'; this applejack drink is served at The Perry Hotel Naples.",
+    "ingredients": [
+      "Laird's applejack brandy",
+      "Cranberry juice",
+      "Apple simple syrup",
+      "Cinnamon notes"
+    ],
+    "spec_note": "Ingredients per F&B Magazine; no measurements published.",
+    "sources": [
+      {
+        "name": "Food & Beverage Magazine, Fall Cocktail Trends 2026",
+        "url": "https://www.fb101.com/fall-cocktail-trends-2026-autumn-flavor-sips"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "paper-plane",
+    "name": "Paper Plane",
+    "why_trending": "Named a bar-order standard for autumn 2026 and an easy order any bar can execute.",
+    "ingredients": [
+      "Bourbon",
+      "Aperol",
+      "Amaro Nonino",
+      "Lemon juice"
+    ],
+    "spec_note": "Equal parts of each, per WhatDrink.",
+    "sources": [
+      {
+        "name": "WhatDrink, Autumnal Drinks: 20 Seasonal Picks for 2026 (Aug 19, 2026)",
+        "url": "https://www.whatdrink.com/blog/autumnal-drinks"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "smoked-maple-negroni",
+    "name": "Smoked Maple Negroni",
+    "why_trending": "Listed as 'the serious end' of 2026's autumn cocktail spectrum.",
+    "ingredients": [
+      "Rye or smoky Scotch (1 part)",
+      "Campari (1 part)",
+      "Sweet vermouth (1 part)",
+      "Maple syrup (1/4 barspoon)",
+      "Garnish: expressed orange peel"
+    ],
+    "spec_note": "Stir. Specs per WhatDrink.",
+    "sources": [
+      {
+        "name": "WhatDrink, Autumnal Drinks: 20 Seasonal Picks for 2026 (Aug 19, 2026)",
+        "url": "https://www.whatdrink.com/blog/autumnal-drinks"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "maple-sour",
+    "name": "Maple Sour",
+    "why_trending": "A fall sour using maple for caramel and wood depth instead of simple syrup.",
+    "ingredients": [
+      "Rye whiskey",
+      "Fresh lemon juice",
+      "Maple syrup",
+      "Egg white (optional)"
+    ],
+    "spec_note": "3:1 lemon-to-maple ratio; dry shake first if using egg white. Per WhatDrink.",
+    "sources": [
+      {
+        "name": "WhatDrink, Autumnal Drinks: 20 Seasonal Picks for 2026 (Aug 19, 2026)",
+        "url": "https://www.whatdrink.com/blog/autumnal-drinks"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "hot-toddy",
+    "name": "Hot Toddy",
+    "why_trending": "Bartenders name it a go-to fall drink (Delish); WhatDrink cites Google Trends data showing 'hot toddy' searches spike more than 300% Oct\u2013Dec.",
+    "ingredients": [
+      "50 ml whiskey (or other spirit)",
+      "1 tsp honey",
+      "Juice of half a lemon",
+      "Top with hot water"
+    ],
+    "spec_note": "Specs per WhatDrink.",
+    "sources": [
+      {
+        "name": "Delish, The Fall Cocktails Worth Ordering This Season (Sep 15, 2026)",
+        "url": "https://www.delish.com/food/a73726105/best-fall-cocktails-bartenders/"
+      },
+      {
+        "name": "WhatDrink, Autumnal Drinks: 20 Seasonal Picks for 2026 (Aug 19, 2026)",
+        "url": "https://www.whatdrink.com/blog/autumnal-drinks"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "penicillin",
+    "name": "Penicillin",
+    "why_trending": "Recommended by IGC Hospitality's beverage director as a modern classic that 'captures the essence of fall'.",
+    "ingredients": [
+      "Scotch",
+      "Honey",
+      "Lemon",
+      "Ginger"
+    ],
+    "spec_note": "Created by Sam Ross; ingredients per Delish, no measurements published there.",
+    "sources": [
+      {
+        "name": "Delish, The Fall Cocktails Worth Ordering This Season (Sep 15, 2026)",
+        "url": "https://www.delish.com/food/a73726105/best-fall-cocktails-bartenders/"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "boulevardier",
+    "name": "Boulevardier",
+    "why_trending": "Picked by Enso Omakase's beverage director: the Negroni with whiskey swapped in for gin.",
+    "ingredients": [
+      "Whiskey",
+      "(Negroni build with whiskey in place of gin)"
+    ],
+    "spec_note": "No measurements published in the source.",
+    "sources": [
+      {
+        "name": "Delish, The Fall Cocktails Worth Ordering This Season (Sep 15, 2026)",
+        "url": "https://www.delish.com/food/a73726105/best-fall-cocktails-bartenders/"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "hot-buttered-rum",
+    "name": "Hot Buttered Rum",
+    "why_trending": "Bar manager at Earth at Hidden Pond calls it her 'favorite autumn indulgence' as hot cocktails return.",
+    "ingredients": [],
+    "spec_note": "Source describes warming spices like cinnamon and nutmeg; no specs published.",
+    "sources": [
+      {
+        "name": "Delish, The Fall Cocktails Worth Ordering This Season (Sep 15, 2026)",
+        "url": "https://www.delish.com/food/a73726105/best-fall-cocktails-bartenders/"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "irish-coffee",
+    "name": "Irish Coffee",
+    "why_trending": "Romeo's owner names it one of the two fall drinks you can find almost anywhere.",
+    "ingredients": [
+      "Hot coffee",
+      "Irish whiskey",
+      "Cream"
+    ],
+    "spec_note": "Ingredients per Delish; no measurements published.",
+    "sources": [
+      {
+        "name": "Delish, The Fall Cocktails Worth Ordering This Season (Sep 15, 2026)",
+        "url": "https://www.delish.com/food/a73726105/best-fall-cocktails-bartenders/"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "matcha-martini",
+    "name": "Matcha Martini",
+    "why_trending": "Called 'the drink to watch' this fall; made with YOSHI Matcha Liqueur and on PF Chang's menu as 'Autumn in Kyoto'. Matcha is also trending on X, where a summary says searches for 'how to make matcha' rose 1300% year over year.",
+    "ingredients": [
+      "YOSHI Matcha Liqueur"
+    ],
+    "spec_note": "Full specs not published in the source.",
+    "sources": [
+      {
+        "name": "USA Today 10Best, Bartenders say these fall cocktails are taking over this season",
+        "url": "https://10best.usatoday.com/food-drink/controversial-fall-cocktails-bartenders-recommend/"
+      },
+      {
+        "name": "X trending: Matcha Fans Share Colorful Drinks and Daily Rituals (Oct 2026)",
+        "url": "https://x.com/i/trending/2109723356731981980"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "spiced-apple-shrub-soda-zero-proof",
+    "name": "Spiced Apple Shrub Soda (zero-proof)",
+    "why_trending": "WhatDrink says spiced apple shrub sodas have 'moved well past novelty' into seasonal staples; F&B Magazine notes rising demand for zero-proof fall drinks.",
+    "ingredients": [
+      "Shrub: apple cider vinegar simmered with apple juice, sugar, cloves, allspice and a cinnamon stick, strained and chilled",
+      "2 tbsp shrub over ice",
+      "Top with sparkling water"
+    ],
+    "spec_note": "Method per WhatDrink.",
+    "sources": [
+      {
+        "name": "WhatDrink, Autumnal Drinks: 20 Seasonal Picks for 2026 (Aug 19, 2026)",
+        "url": "https://www.whatdrink.com/blog/autumnal-drinks"
+      },
+      {
+        "name": "Food & Beverage Magazine, Fall Cocktail Trends 2026",
+        "url": "https://www.fb101.com/fall-cocktail-trends-2026-autumn-flavor-sips"
+      }
+    ],
+    "updated": "2026-10-15"
+  },
+  {
+    "slug": "lemon-drop",
+    "name": "Lemon Drop",
+    "why_trending": "Went viral on X around Oct 10, 2026 when a post about men ordering sweet drinks like lemon drops set off a big debate.",
+    "ingredients": [],
+    "spec_note": "Social trend only; no specs taken from this source.",
+    "sources": [
+      {
+        "name": "X trending: Lemon Drop Cocktails Spark Masculinity Drink Debate (Oct 2026)",
+        "url": "https://x.com/i/trending/2110123026352357413"
+      }
+    ],
+    "updated": "2026-10-15"
+  }
+]
