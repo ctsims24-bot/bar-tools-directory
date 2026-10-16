@@ -85,7 +85,8 @@
     "category": "inventory",
     "description": "Bar inventory and ordering software with a free tier aimed at bar teams.",
     "pricing": "Free tier; paid upgrades",
-    "url": "https://www.backbar.com"
+    "url": "https://www.backbar.com",
+    "team_note": "A bar manager on our team uses Backbar and agrees with what operators say on Reddit. The big win is that it's free. The main drawback is manual entry, such as typing in invoices, which they work around with their own automation."
   },
   {
     "slug": "partender",
