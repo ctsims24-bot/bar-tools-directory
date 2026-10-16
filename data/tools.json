@@ -366,5 +366,16 @@
     "description": "AI sales and labor demand forecasting for restaurants.",
     "pricing": "Quote-based",
     "url": "https://www.lineup.ai"
+  },
+  {
+    "slug": "lixor",
+    "name": "Lixor",
+    "category": "inventory",
+    "also": [
+      "ai"
+    ],
+    "description": "Voice bar inventory app: walk the bar and say bottle levels, with sequential counting (scan barcodes once at setup), team counting, an optional QN-KS Bluetooth scale, and an AI agent, Lix, that answers from your bar data. Premium adds POS integration (Toast, Givex, Union) for variance and pour cost. iPhone and Android.",
+    "pricing": "Essentials $59/mo, Teams $129/mo, Premium $219/mo; 30-day free trial, no card required",
+    "url": "https://lixor.ai"
   }
 ]
