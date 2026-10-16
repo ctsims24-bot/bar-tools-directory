@@ -1,0 +1,19 @@
+{"updated":"2026-10-15","apps":[
+{"slug":"backbar","says":[
+{"text":"A bar manager calls Backbar \"great\" and notes \"incredibly it's free\", but says the free version doesn't connect to their POS (Harbortouch/Shift4), so they have to type in sales and build reports by hand.","url":"https://www.reddit.com/r/BarOwners/comments/15dsnn0/any_experience_using_inventory_apps/","thread":"r/BarOwners: Any experience using inventory apps?"},
+{"text":"One operator found Backbar \"very buggy\" with poor support and says it once deleted their database. Another in the same thread says its Toast integration \"has been great\" and support has been solid.","url":"https://www.reddit.com/r/ToastPOS/comments/1lq9vs3/current_state_of_inventory_software/","thread":"r/ToastPOS: Current State of Inventory Software"}]},
+{"slug":"wisk","says":[
+{"text":"An owner of an 800-bottle bar paid about $4,000 for WISK to load their inventory and recipes. They use the Bluetooth scale with sequential weighing and par-based ordering, and say it exposed a staff leak and has paid for itself many times over.","url":"https://www.reddit.com/r/BarOwners/comments/1ktwoek/digital_vs_manual_inventory/","thread":"r/BarOwners: Digital vs. Manual inventory?"},
+{"text":"A bartender calls WISK \"probably the best one I've ever used\" and points to the phone-camera barcode scanning and the accurate Bluetooth scale.","url":"https://www.reddit.com/r/bartenders/comments/ct4tpo/looking_for_a_new_bar_inventory_software_what_do/","thread":"r/bartenders: Looking for a new bar inventory software"}]},
+{"slug":"partender","says":[
+{"text":"\"Partender is pretty basic and useful if you use it right.\"","url":"https://www.reddit.com/r/bartenders/comments/ct4tpo/looking_for_a_new_bar_inventory_software_what_do/","thread":"r/bartenders: Looking for a new bar inventory software"}]},
+{"slug":"craftable","says":[
+{"text":"A bar owner uses Craftable (formerly Bevager) for inventory and \"love[s] it\", highlighting the Fintech invoice integration and invoice scanning.","url":"https://www.reddit.com/r/BarOwners/comments/1ndu93y/what_additional_software_should_we_be_utilizing/","thread":"r/BarOwners: What additional software should we be utilizing?"},
+{"text":"Bevager (now Craftable) is \"dope, makes ordering easier, integrates into your POS if you want.\"","url":"https://www.reddit.com/r/bartenders/comments/ct4tpo/looking_for_a_new_bar_inventory_software_what_do/","thread":"r/bartenders: Looking for a new bar inventory software"},
+{"text":"A Toast user calls Bevager \"expensive and complex but great support\", noting it has no autopar and only a once-a-day sync from Toast.","url":"https://www.reddit.com/r/ToastPOS/comments/1lq9vs3/current_state_of_inventory_software/","thread":"r/ToastPOS: Current State of Inventory Software"}]},
+{"slug":"marketman","says":[
+{"text":"A café owner who chose MarketMan regrets it. They found it very hard to set up and train on, and disliked that anyone with a login could see labor, sales and profit data.","url":"https://www.reddit.com/r/restaurantowners/comments/16wpx4a/xtrachef_craftable_or_marketman/","thread":"r/restaurantowners: Xtrachef, Craftable or Marketman?"},
+{"text":"A restaurant bookkeeper reports that MarketMan's offline mode didn't work in their walk-ins, which forced them back to handwritten counts.","url":"https://www.reddit.com/r/Restaurant_Managers/comments/1khu7a5/inventory_management_platforms/","thread":"r/Restaurant_Managers: Inventory Management Platforms"}]},
+{"slug":"xtrachef-by-toast","says":[
+{"text":"Several commenters say to avoid xtraCHEF (\"Support is garbage\") and recommend MarginEdge or R365 instead.","url":"https://www.reddit.com/r/restaurantowners/comments/16wpx4a/xtrachef_craftable_or_marketman/","thread":"r/restaurantowners: Xtrachef, Craftable or Marketman?"}]},
+{"slug":"bevspot","says":[]},{"slug":"lixor","says":[]},{"slug":"sculpture-hospitality","says":[]}]}
