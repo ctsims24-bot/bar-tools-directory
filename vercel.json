@@ -1,1 +1,1 @@
-{"buildCommand":"node build.js","outputDirectory":"dist","cleanUrls":true,"trailingSlash":true,"redirects":[{"source":"/:path*","has":[{"type":"host","value":"bar-tools-directory.vercel.app"}],"destination":"https://barstackhq.com/:path*","permanent":true}]}
+{"buildCommand":"node build.js","outputDirectory":"dist","cleanUrls":true,"trailingSlash":true,"redirects":[{"source":"/(.*)","has":[{"type":"host","value":"bar-tools-directory.vercel.app"}],"destination":"https://barstackhq.com/$1","permanent":true}]}
