@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-17",
-  "method": "Each integration is listed on the tool vendor's official integrations/partners page (source linked). Unconfirmed integrations are omitted.",
+  "method": "Each integration is listed on the tool vendor's official integrations/partners page or the POS's official marketplace/integration docs (source linked). Unconfirmed integrations are omitted.",
   "pos": [
     {
       "slug": "toast",
@@ -100,6 +100,31 @@
         {
           "tool": "7shifts",
           "source": "https://www.7shifts.com/integrations/square/"
+        },
+        {
+          "tool": "backbar",
+          "source": "https://squareup.com/us/en/app-marketplace/app/backbar",
+          "note": "Square App Marketplace listing"
+        },
+        {
+          "tool": "restaurant365",
+          "source": "https://squareup.com/us/en/app-marketplace/app/restaurant365",
+          "note": "Square App Marketplace listing"
+        },
+        {
+          "tool": "apicbase",
+          "source": "https://squareup.com/us/en/app-marketplace/app/apicbase",
+          "note": "Square App Marketplace listing"
+        },
+        {
+          "tool": "when-i-work",
+          "source": "https://squareup.com/us/en/app-marketplace/app/when-i-work",
+          "note": "Square App Marketplace listing"
+        },
+        {
+          "tool": "popmenu",
+          "source": "https://squareup.com/us/en/app-marketplace/app/popmenu",
+          "note": "Square App Marketplace listing"
         }
       ]
     },
@@ -205,6 +230,10 @@
         {
           "tool": "tenzo",
           "source": "https://www.gotenzo.com/product-overview/integrations/"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://kb.7shifts.com/hc/en-us/articles/49200838188691-POS-Integration-Partners"
         }
       ]
     },
@@ -261,6 +290,10 @@
         {
           "tool": "wisk",
           "source": "https://www.wisk.ai/pos"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://kb.7shifts.com/hc/en-us/articles/49200838188691-POS-Integration-Partners"
         }
       ]
     },
@@ -356,6 +389,196 @@
           "tool": "wisk",
           "source": "https://www.wisk.ai/pos",
           "note": "Micros Simphony"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://kb.7shifts.com/hc/en-us/articles/49200838188691-POS-Integration-Partners",
+          "note": "Oracle Micros Simphony, Micros 3700"
+        }
+      ]
+    },
+    {
+      "slug": "upos",
+      "name": "UPOS",
+      "url": "https://upos.io",
+      "tool_slug": null,
+      "integrations": [
+        {
+          "tool": "restaurant365",
+          "source": "https://support.upos.io/portal/en/kb/articles/restaurant365-integration-dealer",
+          "note": "Via the UPOS Integration Hub (UPOS knowledge base)"
+        }
+      ]
+    },
+    {
+      "slug": "lavu",
+      "name": "Lavu",
+      "url": "https://lavu.com",
+      "tool_slug": null,
+      "integrations": [
+        {
+          "tool": "bevspot",
+          "source": "https://bevspot.com/integrations/"
+        },
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "marketman",
+          "source": "https://www.marketman.com/partners"
+        }
+      ]
+    },
+    {
+      "slug": "heartland",
+      "name": "Heartland Restaurant",
+      "url": "https://www.heartland.us/restaurant",
+      "tool_slug": null,
+      "integrations": [
+        {
+          "tool": "bevspot",
+          "source": "https://bevspot.com/integrations/"
+        },
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "homebase",
+          "source": "https://www.joinhomebase.com/integrations"
+        },
+        {
+          "tool": "lineup-ai",
+          "source": "https://www.lineup.ai/integrations/"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos"
+        }
+      ]
+    },
+    {
+      "slug": "squirrel",
+      "name": "Squirrel Systems",
+      "url": "https://www.squirrelsystems.com",
+      "tool_slug": null,
+      "integrations": [
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "fourth-hotschedules",
+          "source": "https://www.fourth.com/partner/integrations"
+        },
+        {
+          "tool": "marketman",
+          "source": "https://www.marketman.com/partners"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://kb.7shifts.com/hc/en-us/articles/49200838188691-POS-Integration-Partners"
+        }
+      ]
+    },
+    {
+      "slug": "skytab",
+      "name": "Shift4 SkyTab (Harbortouch)",
+      "url": "https://www.skytab.com",
+      "tool_slug": null,
+      "integrations": [
+        {
+          "tool": "marketman",
+          "source": "https://www.marketman.com/partners",
+          "note": "Listed as Shift4 / SkyTab POS"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://kb.7shifts.com/hc/en-us/articles/49200838188691-POS-Integration-Partners",
+          "note": "Harbortouch Hospitality / SkyTab POS"
+        },
+        {
+          "tool": "sling",
+          "source": "https://getsling.com/integrations/",
+          "note": "Listed as Harbortouch POS"
+        }
+      ]
+    },
+    {
+      "slug": "focus",
+      "name": "Focus POS",
+      "url": "https://www.focuspos.com",
+      "tool_slug": null,
+      "integrations": [
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://kb.7shifts.com/hc/en-us/articles/49200838188691-POS-Integration-Partners",
+          "note": "Third-party (partner-led) integration"
+        }
+      ]
+    },
+    {
+      "slug": "par-brink",
+      "name": "PAR Brink POS",
+      "url": "https://partech.com",
+      "tool_slug": null,
+      "integrations": [
+        {
+          "tool": "bevspot",
+          "source": "https://bevspot.com/integrations/",
+          "note": "Listed as Brink POS"
+        },
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations",
+          "note": "Listed as ParTech PAR"
+        },
+        {
+          "tool": "fourth-hotschedules",
+          "source": "https://www.fourth.com/partner/integrations",
+          "note": "PAR POS (formerly Brink POS)"
+        },
+        {
+          "tool": "homebase",
+          "source": "https://www.joinhomebase.com/integrations",
+          "note": "Listed as PAR POS"
+        },
+        {
+          "tool": "lineup-ai",
+          "source": "https://www.lineup.ai/integrations/",
+          "note": "Listed as Brink POS"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos",
+          "note": "Listed as Brink POS"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://kb.7shifts.com/hc/en-us/articles/49200838188691-POS-Integration-Partners",
+          "note": "Listed as Brink"
+        }
+      ]
+    },
+    {
+      "slug": "arryved",
+      "name": "Arryved",
+      "url": "https://www.arryved.com",
+      "tool_slug": "arryved",
+      "integrations": [
+        {
+          "tool": "7shifts",
+          "source": "https://kb.7shifts.com/hc/en-us/articles/49200838188691-POS-Integration-Partners",
+          "note": "Listed under direct and third-party POS integrations"
         }
       ]
     }
