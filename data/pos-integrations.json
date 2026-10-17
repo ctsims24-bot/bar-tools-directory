@@ -1,0 +1,363 @@
+{
+  "updated": "2026-10-17",
+  "method": "Each integration is listed on the tool vendor's official integrations/partners page (source linked). Unconfirmed integrations are omitted.",
+  "pos": [
+    {
+      "slug": "toast",
+      "name": "Toast",
+      "url": "https://pos.toasttab.com",
+      "tool_slug": "toast",
+      "integrations": [
+        {
+          "tool": "bevspot",
+          "source": "https://bevspot.com/integrations/"
+        },
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "fourth-hotschedules",
+          "source": "https://www.fourth.com/partner/integrations"
+        },
+        {
+          "tool": "homebase",
+          "source": "https://www.joinhomebase.com/integrations"
+        },
+        {
+          "tool": "lineup-ai",
+          "source": "https://www.lineup.ai/integrations/"
+        },
+        {
+          "tool": "lixor",
+          "source": "https://www.lixor.ai/",
+          "note": "Premium plan"
+        },
+        {
+          "tool": "marketman",
+          "source": "https://www.marketman.com/partners"
+        },
+        {
+          "tool": "sling",
+          "source": "https://getsling.com/integrations/"
+        },
+        {
+          "tool": "tenzo",
+          "source": "https://www.gotenzo.com/product-overview/integrations/"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://www.7shifts.com/integrations/toast/"
+        }
+      ]
+    },
+    {
+      "slug": "square",
+      "name": "Square for Restaurants",
+      "url": "https://squareup.com/us/en/point-of-sale/restaurants",
+      "tool_slug": "square-for-restaurants",
+      "integrations": [
+        {
+          "tool": "bevspot",
+          "source": "https://bevspot.com/integrations/"
+        },
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "deputy",
+          "source": "https://www.deputy.com/integrations"
+        },
+        {
+          "tool": "homebase",
+          "source": "https://www.joinhomebase.com/integrations"
+        },
+        {
+          "tool": "lineup-ai",
+          "source": "https://www.lineup.ai/integrations/"
+        },
+        {
+          "tool": "marketman",
+          "source": "https://www.marketman.com/partners"
+        },
+        {
+          "tool": "sling",
+          "source": "https://getsling.com/integrations/"
+        },
+        {
+          "tool": "tenzo",
+          "source": "https://www.gotenzo.com/product-overview/integrations/"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://www.7shifts.com/integrations/square/"
+        }
+      ]
+    },
+    {
+      "slug": "clover",
+      "name": "Clover",
+      "url": "https://www.clover.com",
+      "tool_slug": "clover",
+      "integrations": [
+        {
+          "tool": "bevspot",
+          "source": "https://bevspot.com/integrations/"
+        },
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "deputy",
+          "source": "https://www.deputy.com/integrations"
+        },
+        {
+          "tool": "homebase",
+          "source": "https://www.joinhomebase.com/integrations"
+        },
+        {
+          "tool": "lineup-ai",
+          "source": "https://www.lineup.ai/integrations/"
+        },
+        {
+          "tool": "marketman",
+          "source": "https://www.marketman.com/partners"
+        },
+        {
+          "tool": "tenzo",
+          "source": "https://www.gotenzo.com/product-overview/integrations/"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://www.7shifts.com/integrations/clover/"
+        }
+      ]
+    },
+    {
+      "slug": "lightspeed",
+      "name": "Lightspeed Restaurant",
+      "url": "https://www.lightspeedhq.com/pos/restaurant/",
+      "tool_slug": "lightspeed-restaurant",
+      "integrations": [
+        {
+          "tool": "bevspot",
+          "source": "https://bevspot.com/integrations/"
+        },
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "deputy",
+          "source": "https://www.deputy.com/integrations"
+        },
+        {
+          "tool": "homebase",
+          "source": "https://www.joinhomebase.com/integrations"
+        },
+        {
+          "tool": "marketman",
+          "source": "https://www.marketman.com/partners"
+        },
+        {
+          "tool": "tenzo",
+          "source": "https://www.gotenzo.com/product-overview/integrations/"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://www.7shifts.com/integrations/lightspeed-k-series/",
+          "note": "Lightspeed K Series"
+        }
+      ]
+    },
+    {
+      "slug": "spoton",
+      "name": "SpotOn",
+      "url": "https://www.spoton.com",
+      "tool_slug": "spoton",
+      "integrations": [
+        {
+          "tool": "bevspot",
+          "source": "https://bevspot.com/integrations/"
+        },
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "tenzo",
+          "source": "https://www.gotenzo.com/product-overview/integrations/"
+        }
+      ]
+    },
+    {
+      "slug": "touchbistro",
+      "name": "TouchBistro",
+      "url": "https://www.touchbistro.com",
+      "tool_slug": "touchbistro",
+      "integrations": [
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "marketman",
+          "source": "https://www.marketman.com/partners"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://www.7shifts.com/integrations/touchbistro/"
+        }
+      ]
+    },
+    {
+      "slug": "ncr-aloha",
+      "name": "NCR Aloha",
+      "url": "https://www.ncrvoyix.com/platform/restaurant-applications/ordering-fulfillment/point-of-sale",
+      "tool_slug": null,
+      "integrations": [
+        {
+          "tool": "bevspot",
+          "source": "https://bevspot.com/integrations/"
+        },
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "fourth-hotschedules",
+          "source": "https://www.fourth.com/partner/integrations"
+        },
+        {
+          "tool": "marketman",
+          "source": "https://www.marketman.com/partners"
+        },
+        {
+          "tool": "tenzo",
+          "source": "https://www.gotenzo.com/product-overview/integrations/"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos"
+        }
+      ]
+    },
+    {
+      "slug": "revel",
+      "name": "Revel Systems",
+      "url": "https://revelsystems.com",
+      "tool_slug": "revel-systems",
+      "integrations": [
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "deputy",
+          "source": "https://www.deputy.com/integrations"
+        },
+        {
+          "tool": "fourth-hotschedules",
+          "source": "https://www.fourth.com/partner/integrations"
+        },
+        {
+          "tool": "marketman",
+          "source": "https://www.marketman.com/partners"
+        },
+        {
+          "tool": "tenzo",
+          "source": "https://www.gotenzo.com/product-overview/integrations/"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://www.7shifts.com/integrations/revel/"
+        }
+      ]
+    },
+    {
+      "slug": "upserve",
+      "name": "Upserve (Lightspeed U Series)",
+      "url": "https://www.upserve.com/",
+      "tool_slug": null,
+      "integrations": [
+        {
+          "tool": "bevspot",
+          "source": "https://bevspot.com/integrations/"
+        },
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "fourth-hotschedules",
+          "source": "https://www.fourth.com/partner/integrations",
+          "note": "Listed as Lightspeed U Series (formerly Upserve)"
+        },
+        {
+          "tool": "lineup-ai",
+          "source": "https://www.lineup.ai/integrations/"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos"
+        },
+        {
+          "tool": "7shifts",
+          "source": "https://www.7shifts.com/integrations/upserve/"
+        }
+      ]
+    },
+    {
+      "slug": "oracle-micros",
+      "name": "Oracle MICROS Simphony",
+      "url": "https://www.oracle.com/food-beverage/",
+      "tool_slug": "oracle-micros-simphony",
+      "integrations": [
+        {
+          "tool": "craftable",
+          "source": "https://craftable.com/integrations"
+        },
+        {
+          "tool": "fourth-hotschedules",
+          "source": "https://www.fourth.com/partner/integrations",
+          "note": "Simphony and Micros 3700"
+        },
+        {
+          "tool": "marketman",
+          "source": "https://www.marketman.com/partners"
+        },
+        {
+          "tool": "wisk",
+          "source": "https://www.wisk.ai/pos",
+          "note": "Micros Simphony"
+        }
+      ]
+    }
+  ]
+}
