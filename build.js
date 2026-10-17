@@ -1,7 +1,7 @@
 const fs=require("fs"),path=require("path");
 const SITE=(process.env.SITE_URL||"https://barstackhq.com").replace(/\/$/,"");
 const NAME="BarStack Directory";
-const GSC=(process.env.GSC_VERIFICATION||"").trim();
+const GSC=(process.env.GSC_VERIFICATION||"LDhD4NWwwz6Nv5nTbNspJyqzuYwFmRTP_74eOpy0lDY").trim();
 const recipes=JSON.parse(fs.readFileSync("data/recipes.json","utf8"));
 const tools=JSON.parse(fs.readFileSync("data/tools.json","utf8"));
 const cats=[
