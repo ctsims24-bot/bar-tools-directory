@@ -1,5 +1,5 @@
 const fs=require("fs"),path=require("path");
-const SITE=(process.env.SITE_URL||"https://bar-tools-directory.vercel.app").replace(/\/$/,"");
+const SITE=(process.env.SITE_URL||"https://barstackhq.com").replace(/\/$/,"");
 const NAME="BarStack Directory";
 const GSC=(process.env.GSC_VERIFICATION||"").trim();
 const recipes=JSON.parse(fs.readFileSync("data/recipes.json","utf8"));
