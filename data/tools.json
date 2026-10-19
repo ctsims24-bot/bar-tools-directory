@@ -378,5 +378,69 @@
     "description": "Voice bar inventory app: walk the bar and say bottle levels, with sequential counting (scan barcodes once at setup), team counting, an optional QN-KS Bluetooth scale, and an AI agent, Lix, that answers from your bar data. Premium adds POS integration (Toast, Givex, Union) for variance and pour cost. iPhone and Android.",
     "pricing": "Essentials $59/mo, Teams $129/mo, Premium $219/mo; 30-day free trial, no card required",
     "url": "https://lixor.ai"
+  },
+  {
+    "slug": "doordash-drive",
+    "name": "DoorDash Drive",
+    "category": "ordering",
+    "description": "On-demand delivery drivers for your own web and phone orders, with live driver tracking and delivery fees.",
+    "pricing": "Per-delivery fee",
+    "url": "https://get.doordash.com/en-us/products/drive"
+  },
+  {
+    "slug": "servme",
+    "name": "serVme",
+    "category": "ordering",
+    "description": "Reservations, waitlist and guest CRM that syncs reservations and checks with the POS.",
+    "pricing": "Quote-based",
+    "url": "https://www.servmeco.com"
+  },
+  {
+    "slug": "magento",
+    "name": "Magento (Adobe Commerce)",
+    "category": "ordering",
+    "description": "Ecommerce platform; UPOS syncs products, categories and stock and pulls online orders into the POS.",
+    "pricing": "Open source free; Adobe Commerce quote-based",
+    "url": "https://business.adobe.com/products/magento/magento-commerce.html"
+  },
+  {
+    "slug": "wix",
+    "name": "Wix",
+    "category": "ordering",
+    "description": "Website builder with online store; UPOS syncs products and stock and pulls Wix orders every 15 minutes.",
+    "pricing": "Paid plans from ~$17/mo",
+    "url": "https://www.wix.com"
+  },
+  {
+    "slug": "shogo",
+    "name": "Shogo",
+    "category": "ordering",
+    "description": "Automated accounting sync that posts POS sales into QuickBooks and Xero.",
+    "pricing": "Monthly plans per location",
+    "url": "https://www.shogo.io"
+  },
+  {
+    "slug": "chowly",
+    "name": "Chowly",
+    "category": "ordering",
+    "description": "Delivery-app middleware that sends Uber Eats, DoorDash, Grubhub and other orders straight into the POS.",
+    "pricing": "Monthly subscription; quote-based",
+    "url": "https://chowly.com"
+  },
+  {
+    "slug": "factor4",
+    "name": "Factor4",
+    "category": "ordering",
+    "description": "Gift card and loyalty processing: issue, reload, redeem and refund gift cards at the POS.",
+    "pricing": "Quote-based",
+    "url": "https://www.factor4gift.com"
+  },
+  {
+    "slug": "deliverect",
+    "name": "Deliverect",
+    "category": "ordering",
+    "description": "Online ordering hub that publishes your menu to delivery platforms and routes orders to the POS.",
+    "pricing": "Plans from ~$100/mo per location",
+    "url": "https://www.deliverect.com"
   }
 ]

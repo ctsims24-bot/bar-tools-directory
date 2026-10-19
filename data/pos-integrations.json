@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-19",
   "method": "Each integration is listed on the tool vendor's official integrations/partners page or the POS's official marketplace/integration docs (source linked). Unconfirmed integrations are omitted.",
   "pos": [
     {
@@ -406,6 +406,46 @@
         {
           "tool": "restaurant365",
           "source": "https://support.upos.io/portal/en/kb/articles/restaurant365-integration-dealer",
+          "note": "Via the UPOS Integration Hub (UPOS knowledge base)"
+        },
+        {
+          "tool": "doordash-drive",
+          "source": "https://support.upos.io/portal/en/kb/articles/doordash-drive-integration-dealer",
+          "note": "Via the UPOS Integration Hub (UPOS knowledge base)"
+        },
+        {
+          "tool": "servme",
+          "source": "https://support.upos.io/portal/en/kb/upos/integrations/integration-hub",
+          "note": "Via the UPOS Integration Hub (UPOS knowledge base); Listed in the UPOS Integration Hub; no dedicated UPOS article found"
+        },
+        {
+          "tool": "magento",
+          "source": "https://support.upos.io/portal/en/kb/articles/magento-integration-user-manual",
+          "note": "Via the UPOS Integration Hub (UPOS knowledge base)"
+        },
+        {
+          "tool": "wix",
+          "source": "https://support.upos.io/portal/en/kb/articles/wix-integration-user-manual",
+          "note": "Via the UPOS Integration Hub (UPOS knowledge base)"
+        },
+        {
+          "tool": "shogo",
+          "source": "https://support.upos.io/portal/en/kb/articles/shogo-integration-dealer",
+          "note": "Via the UPOS Integration Hub (UPOS knowledge base)"
+        },
+        {
+          "tool": "chowly",
+          "source": "https://support.upos.io/portal/en/kb/articles/chowly-integration-dealer",
+          "note": "Via the UPOS Integration Hub (UPOS knowledge base)"
+        },
+        {
+          "tool": "factor4",
+          "source": "https://support.upos.io/portal/en/kb/articles/factor4-integration-9-6-2026",
+          "note": "Via the UPOS Integration Hub (UPOS knowledge base); US stores only"
+        },
+        {
+          "tool": "deliverect",
+          "source": "https://support.upos.io/portal/en/kb/articles/pos-deliverect-integration-16-7-2025",
           "note": "Via the UPOS Integration Hub (UPOS knowledge base)"
         }
       ]
