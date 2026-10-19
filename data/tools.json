@@ -28,7 +28,7 @@
     "name": "Lightspeed Restaurant",
     "category": "pos",
     "description": "Cloud POS for full-service restaurants and bars with menu, floor plan and reporting tools.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://www.lightspeedhq.com/pos/restaurant/"
   },
   {
@@ -36,7 +36,7 @@
     "name": "TouchBistro",
     "category": "pos",
     "description": "iPad-based restaurant POS with table management, reservations and online ordering.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://www.touchbistro.com"
   },
   {
@@ -44,7 +44,7 @@
     "name": "SpotOn",
     "category": "pos",
     "description": "Restaurant and bar POS with handhelds, online ordering, loyalty and reporting.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://www.spoton.com"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Revel Systems",
     "category": "pos",
     "description": "iPad POS for multi-location and quick-service restaurants with inventory and analytics.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://revelsystems.com"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Arryved",
     "category": "pos",
     "description": "POS built for breweries, taprooms, wineries and craft beverage venues.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://www.arryved.com"
   },
   {
@@ -125,7 +125,7 @@
     "name": "Craftable",
     "category": "inventory",
     "description": "Hospitality back-office suite for inventory, purchasing, accounting and bar management.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://craftable.com"
   },
   {
@@ -149,7 +149,7 @@
     "name": "Apicbase",
     "category": "inventory",
     "description": "Food management platform for recipes, inventory, procurement and menu engineering.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://get.apicbase.com"
   },
   {
@@ -213,7 +213,7 @@
     "name": "Harri",
     "category": "scheduling",
     "description": "Hospitality workforce platform: hiring, scheduling, time & attendance and engagement.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://harri.com"
   },
   {
@@ -309,7 +309,7 @@
     "name": "ConverseNow",
     "category": "ai",
     "description": "AI voice ordering assistant for restaurant phone and drive-thru orders.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://conversenow.ai"
   },
   {
@@ -341,7 +341,7 @@
     "name": "Tenzo",
     "category": "ai",
     "description": "Restaurant analytics with AI sales and labor forecasting.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://www.gotenzo.com"
   },
   {
@@ -357,7 +357,7 @@
     "name": "ClearCOGS",
     "category": "ai",
     "description": "AI forecasting for restaurant prep, ordering and waste reduction.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://www.clearcogs.com"
   },
   {
@@ -365,7 +365,7 @@
     "name": "Lineup.ai",
     "category": "ai",
     "description": "AI sales and labor demand forecasting for restaurants.",
-    "pricing": "See vendor site",
+    "pricing": "Quote-based",
     "url": "https://www.lineup.ai"
   },
   {
