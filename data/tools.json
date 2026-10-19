@@ -28,7 +28,7 @@
     "name": "Lightspeed Restaurant",
     "category": "pos",
     "description": "Cloud POS for full-service restaurants and bars with menu, floor plan and reporting tools.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://www.lightspeedhq.com/pos/restaurant/"
   },
   {
@@ -36,7 +36,7 @@
     "name": "TouchBistro",
     "category": "pos",
     "description": "iPad-based restaurant POS with table management, reservations and online ordering.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://www.touchbistro.com"
   },
   {
@@ -44,7 +44,7 @@
     "name": "SpotOn",
     "category": "pos",
     "description": "Restaurant and bar POS with handhelds, online ordering, loyalty and reporting.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://www.spoton.com"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Revel Systems",
     "category": "pos",
     "description": "iPad POS for multi-location and quick-service restaurants with inventory and analytics.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://revelsystems.com"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Arryved",
     "category": "pos",
     "description": "POS built for breweries, taprooms, wineries and craft beverage venues.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://www.arryved.com"
   },
   {
@@ -125,7 +125,7 @@
     "name": "Craftable",
     "category": "inventory",
     "description": "Hospitality back-office suite for inventory, purchasing, accounting and bar management.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://craftable.com"
   },
   {
@@ -149,7 +149,7 @@
     "name": "Apicbase",
     "category": "inventory",
     "description": "Food management platform for recipes, inventory, procurement and menu engineering.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://get.apicbase.com"
   },
   {
@@ -213,7 +213,7 @@
     "name": "Harri",
     "category": "scheduling",
     "description": "Hospitality workforce platform: hiring, scheduling, time & attendance and engagement.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://harri.com"
   },
   {
@@ -309,7 +309,7 @@
     "name": "ConverseNow",
     "category": "ai",
     "description": "AI voice ordering assistant for restaurant phone and drive-thru orders.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://conversenow.ai"
   },
   {
@@ -341,7 +341,7 @@
     "name": "Tenzo",
     "category": "ai",
     "description": "Restaurant analytics with AI sales and labor forecasting.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://www.gotenzo.com"
   },
   {
@@ -357,7 +357,7 @@
     "name": "ClearCOGS",
     "category": "ai",
     "description": "AI forecasting for restaurant prep, ordering and waste reduction.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://www.clearcogs.com"
   },
   {
@@ -365,7 +365,7 @@
     "name": "Lineup.ai",
     "category": "ai",
     "description": "AI sales and labor demand forecasting for restaurants.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://www.lineup.ai"
   },
   {
@@ -384,7 +384,7 @@
     "name": "DoorDash Drive",
     "category": "ordering",
     "description": "On-demand delivery drivers for your own web and phone orders, with live driver tracking and delivery fees.",
-    "pricing": "Per-delivery fee",
+    "pricing": "See vendor site",
     "url": "https://get.doordash.com/en-us/products/drive"
   },
   {
@@ -392,7 +392,7 @@
     "name": "serVme",
     "category": "ordering",
     "description": "Reservations, waitlist and guest CRM that syncs reservations and checks with the POS.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://www.servmeco.com"
   },
   {
@@ -400,7 +400,7 @@
     "name": "Magento (Adobe Commerce)",
     "category": "ordering",
     "description": "Ecommerce platform; UPOS syncs products, categories and stock and pulls online orders into the POS.",
-    "pricing": "Open source free; Adobe Commerce quote-based",
+    "pricing": "See vendor site",
     "url": "https://business.adobe.com/products/magento/magento-commerce.html"
   },
   {
@@ -408,7 +408,7 @@
     "name": "Wix",
     "category": "ordering",
     "description": "Website builder with online store; UPOS syncs products and stock and pulls Wix orders every 15 minutes.",
-    "pricing": "Paid plans from ~$17/mo",
+    "pricing": "See vendor site",
     "url": "https://www.wix.com"
   },
   {
@@ -416,7 +416,7 @@
     "name": "Shogo",
     "category": "ordering",
     "description": "Automated accounting sync that posts POS sales into QuickBooks and Xero.",
-    "pricing": "Monthly plans per location",
+    "pricing": "See vendor site",
     "url": "https://www.shogo.io"
   },
   {
@@ -424,7 +424,7 @@
     "name": "Chowly",
     "category": "ordering",
     "description": "Delivery-app middleware that sends Uber Eats, DoorDash, Grubhub and other orders straight into the POS.",
-    "pricing": "Monthly subscription; quote-based",
+    "pricing": "See vendor site",
     "url": "https://chowly.com"
   },
   {
@@ -432,7 +432,7 @@
     "name": "Factor4",
     "category": "ordering",
     "description": "Gift card and loyalty processing: issue, reload, redeem and refund gift cards at the POS.",
-    "pricing": "Quote-based",
+    "pricing": "See vendor site",
     "url": "https://www.factor4gift.com"
   },
   {
@@ -440,7 +440,7 @@
     "name": "Deliverect",
     "category": "ordering",
     "description": "Online ordering hub that publishes your menu to delivery platforms and routes orders to the POS.",
-    "pricing": "Plans from ~$100/mo per location",
+    "pricing": "See vendor site",
     "url": "https://www.deliverect.com"
   }
 ]
