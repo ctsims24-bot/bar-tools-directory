@@ -482,5 +482,77 @@
     "description": "Events and hospitality platform with AI agents for guest inquiries and promoter DMs, plus venue check-ins, ticketing, rewards, and paying promoters based on verified visits.",
     "pricing": "See vendor site",
     "url": "https://belong.net"
+  },
+  {
+    "slug": "bartrack",
+    "name": "BarTrack",
+    "category": "inventory",
+    "description": "Non-intrusive draft beer sensors plus a platform for real-time keg inventory, draft line diagnostics (temperature, pressure, line cleanliness) and pour-vs-sale waste reporting.",
+    "pricing": "See vendor site",
+    "url": "https://www.bartrack.beer"
+  },
+  {
+    "slug": "beverage-metrics",
+    "name": "Beverage Metrics",
+    "category": "inventory",
+    "description": "Draught monitoring and stock control from Vianet that connects draught dispense, POS and inventory data to protect margin, manage stock and maintain drink quality.",
+    "pricing": "See vendor site",
+    "url": "https://beveragemetrics.com"
+  },
+  {
+    "slug": "beerboard",
+    "name": "BeerBoard",
+    "category": "inventory",
+    "description": "Bar performance platform that captures real-time pour data for ordering, inventory and brand insights, with live menu updates and direct distributor ordering.",
+    "pricing": "See vendor site",
+    "url": "https://www.beerboard.com"
+  },
+  {
+    "slug": "beersaver-systems",
+    "name": "BeerSAVER Systems",
+    "category": "inventory",
+    "description": "Draft beer monitoring with Swiss-made flow meters that match ounces poured to POS sales line by line, plus real-time keg inventory, temperature tracking and self-serve walls and tables.",
+    "pricing": "Monitoring from $99/mo; installation from $999",
+    "url": "https://usbeersaver.com"
+  },
+  {
+    "slug": "chownow",
+    "name": "ChowNow",
+    "category": "ordering",
+    "description": "Commission-free online ordering for local restaurants, so takeout orders come direct instead of through third-party delivery apps.",
+    "pricing": "See vendor site",
+    "url": "https://www.chownow.com"
+  },
+  {
+    "slug": "checkmate",
+    "name": "Checkmate",
+    "category": "ordering",
+    "description": "Ordering platform for restaurant brands that drives online sales and connects with customers, with scalable tech and 24/7 support.",
+    "pricing": "See vendor site",
+    "url": "https://www.itsacheckmate.com"
+  },
+  {
+    "slug": "birdeye",
+    "name": "Birdeye",
+    "category": "ordering",
+    "description": "AI coworkers for multi-location brands that manage online reputation and visibility, convert demand and keep the guest experience consistent across locations.",
+    "pricing": "See vendor site",
+    "url": "https://birdeye.com"
+  },
+  {
+    "slug": "bloom-intelligence",
+    "name": "Bloom Intelligence",
+    "category": "ordering",
+    "description": "AI restaurant marketing platform that turns guest data into revenue, including win-back of at-risk guests.",
+    "pricing": "See vendor site",
+    "url": "https://bloomintelligence.com"
+  },
+  {
+    "slug": "bite",
+    "name": "Bite",
+    "category": "ordering",
+    "description": "Self-ordering kiosk software for restaurants.",
+    "pricing": "See vendor site",
+    "url": "https://www.getbite.com"
   }
 ]
