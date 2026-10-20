@@ -442,5 +442,29 @@
     "description": "Online ordering hub that publishes your menu to delivery platforms and routes orders to the POS.",
     "pricing": "See vendor site",
     "url": "https://www.deliverect.com"
+  },
+  {
+    "slug": "beverage-bins",
+    "name": "Beverage Bins",
+    "category": "bar-equipment",
+    "description": "Rolling drink dump station for bars, caterers and event venues. A lift-out strainer catches ice, fruit and straws while liquid drains into a sealed 21-gallon reservoir with a level window and drain plug.",
+    "pricing": "See vendor site",
+    "url": "https://beveragebins.com"
+  },
+  {
+    "slug": "oss-data",
+    "name": "OSS Data",
+    "category": "pos",
+    "description": "Bar and restaurant POS software and touch terminals, plus RFID liquor control systems (Spy Lite, Spy Pro, Octopus IP) that unlock pours after payment, and digital menu boards.",
+    "pricing": "See vendor site",
+    "url": "https://ossdata.com"
+  },
+  {
+    "slug": "belong",
+    "name": "Belong",
+    "category": "ai",
+    "description": "Events and hospitality platform with AI agents for guest inquiries and promoter DMs, plus venue check-ins, ticketing, rewards, and paying promoters based on verified visits.",
+    "pricing": "See vendor site",
+    "url": "https://belong.net"
   }
 ]

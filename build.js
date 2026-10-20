@@ -11,7 +11,8 @@ const cats=[
  {slug:"scheduling",name:"Scheduling & Labor",blurb:"Staff scheduling, time clocks, tip pooling and team communication."},
  {slug:"wine-bar",name:"Wine & Bar Tools",blurb:"Wine lists, beverage menus, distributor ordering and wine/beer data."},
  {slug:"ai",name:"AI for Restaurants & Bars",blurb:"AI phone answering, voice ordering, forecasting and marketing."},
- {slug:"ordering",name:"Ordering, Delivery & Guest Tools",blurb:"Online ordering, delivery, ecommerce, reservations, gift cards and accounting sync."}];
+ {slug:"ordering",name:"Ordering, Delivery & Guest Tools",blurb:"Online ordering, delivery, ecommerce, reservations, gift cards and accounting sync."},
+{slug:"bar-equipment",name:"Bar Equipment",blurb:"Physical gear for bars and events: drink stations, waste handling and service-well equipment."}];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const out="dist";fs.rmSync(out,{recursive:true,force:true});
 const w=(p,h)=>{const f=path.join(out,p);fs.mkdirSync(path.dirname(f),{recursive:true});fs.writeFileSync(f,h)};
