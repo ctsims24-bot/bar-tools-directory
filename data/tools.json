@@ -444,6 +444,22 @@
     "url": "https://www.deliverect.com"
   },
   {
+    "slug": "sevenrooms",
+    "name": "SevenRooms",
+    "category": "ordering",
+    "description": "Reservations, waitlist and AI table management plus guest data, CRM and automated marketing for restaurants and bars, with Voice AI for call-in bookings.",
+    "pricing": "Tiered packages, no cover fees; quote via demo",
+    "url": "https://sevenrooms.com"
+  },
+  {
+    "slug": "resy",
+    "name": "Resy",
+    "category": "ordering",
+    "description": "American Express-backed reservation platform for restaurants, bars and wineries with waitlists, guest profiles, deposits and prepayment, ticketed experiences and events; Tock is now part of Resy.",
+    "pricing": "Tiered plans; book a demo",
+    "url": "https://resyos.com"
+  },
+  {
     "slug": "beverage-bins",
     "name": "Beverage Bins",
     "category": "bar-equipment",
