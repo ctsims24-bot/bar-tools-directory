@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "method": "Each integration is listed on the tool vendor's official integrations/partners page or the POS's official marketplace/integration docs (source linked). Unconfirmed integrations are omitted.",
   "pos": [
     {
@@ -52,6 +52,50 @@
         {
           "tool": "7shifts",
           "source": "https://www.7shifts.com/integrations/toast/"
+        },
+        {
+          "tool": "restaurant365",
+          "source": "https://pos.toasttab.com/partners/directory/restaurant365"
+        },
+        {
+          "tool": "sevenrooms",
+          "source": "https://pos.toasttab.com/partners/directory/sevenrooms"
+        },
+        {
+          "tool": "resy",
+          "source": "https://pos.toasttab.com/partners/directory/resy"
+        },
+        {
+          "tool": "popmenu",
+          "source": "https://pos.toasttab.com/partners/directory/popmenu"
+        },
+        {
+          "tool": "chowly",
+          "source": "https://pos.toasttab.com/partners/directory/chowly"
+        },
+        {
+          "tool": "deliverect",
+          "source": "https://pos.toasttab.com/partners/directory/deliverect"
+        },
+        {
+          "tool": "harri",
+          "source": "https://pos.toasttab.com/partners/directory/harri"
+        },
+        {
+          "tool": "backbar",
+          "source": "https://pos.toasttab.com/partners/directory/backbar"
+        },
+        {
+          "tool": "bartrack",
+          "source": "https://pos.toasttab.com/partners/directory/bartrack"
+        },
+        {
+          "tool": "beverage-metrics",
+          "source": "https://pos.toasttab.com/partners/directory/beverage-metrics"
+        },
+        {
+          "tool": "beerboard",
+          "source": "https://pos.toasttab.com/partners/directory/beerboard"
         }
       ]
     },

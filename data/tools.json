@@ -482,5 +482,29 @@
     "description": "Events and hospitality platform with AI agents for guest inquiries and promoter DMs, plus venue check-ins, ticketing, rewards, and paying promoters based on verified visits.",
     "pricing": "See vendor site",
     "url": "https://belong.net"
+  },
+  {
+    "slug": "bartrack",
+    "name": "BarTrack",
+    "category": "inventory",
+    "description": "Non-intrusive draft beer sensors plus a platform for real-time keg inventory, draft line diagnostics (temperature, pressure, line cleanliness) and pour-vs-sale waste reporting.",
+    "pricing": "See vendor site",
+    "url": "https://www.bartrack.beer"
+  },
+  {
+    "slug": "beverage-metrics",
+    "name": "Beverage Metrics",
+    "category": "inventory",
+    "description": "Draught monitoring and stock control from Vianet that connects draught dispense, POS and inventory data to protect margin, manage stock and maintain drink quality.",
+    "pricing": "See vendor site",
+    "url": "https://beveragemetrics.com"
+  },
+  {
+    "slug": "beerboard",
+    "name": "BeerBoard",
+    "category": "inventory",
+    "description": "Bar performance platform that captures real-time pour data for ordering, inventory and brand insights, with live menu updates and direct distributor ordering.",
+    "pricing": "See vendor site",
+    "url": "https://www.beerboard.com"
   }
 ]
