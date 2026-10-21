@@ -554,5 +554,21 @@
     "description": "Self-ordering kiosk software for restaurants.",
     "pricing": "See vendor site",
     "url": "https://www.getbite.com"
+  },
+  {
+    "slug": "ottimate",
+    "name": "Ottimate",
+    "category": "inventory",
+    "description": "AI-powered accounts payable automation for hospitality and restaurant groups: invoice coding and approvals, vendor payments, cost-discrepancy alerts, PO fulfillment checks and employee spend management, with QuickBooks, NetSuite, Sage and other accounting integrations.",
+    "pricing": "Quote-based; book a demo",
+    "url": "https://ottimate.com"
+  },
+  {
+    "slug": "bluecart",
+    "name": "BlueCart",
+    "category": "inventory",
+    "description": "Ordering and procurement platform connecting restaurants, hotels and foodservice businesses with their suppliers, with restaurant inventory management, food costing and an online marketplace for finding local vendors.",
+    "pricing": "See vendor site; book a demo",
+    "url": "https://www.bluecart.com"
   }
 ]
