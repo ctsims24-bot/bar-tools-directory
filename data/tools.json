@@ -570,5 +570,13 @@
     "description": "Ordering and procurement platform connecting restaurants, hotels and foodservice businesses with their suppliers, with restaurant inventory management, food costing and an online marketplace for finding local vendors.",
     "pricing": "See vendor site; book a demo",
     "url": "https://www.bluecart.com"
+  },
+  {
+    "slug": "opentable",
+    "name": "OpenTable",
+    "category": "ordering",
+    "description": "Reservation and guest management platform used by 70,000+ restaurants, bars and wineries, with bookings from OpenTable and 140+ partner sites like Google, automated table assignments, deposits and card holds for no-shows, guest insights, offline mode and 200+ integrations.",
+    "pricing": "See vendor site; contact sales",
+    "url": "https://www.opentable.com/restaurant-solutions/"
   }
 ]
