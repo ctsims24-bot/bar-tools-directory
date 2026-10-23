@@ -578,5 +578,13 @@
     "description": "Reservation and guest management platform used by 70,000+ restaurants, bars and wineries, with bookings from OpenTable and 140+ partner sites like Google, automated table assignments, deposits and card holds for no-shows, guest insights, offline mode and 200+ integrations.",
     "pricing": "See vendor site; contact sales",
     "url": "https://www.opentable.com/restaurant-solutions/"
+  },
+  {
+    "slug": "marginedge",
+    "name": "MarginEdge",
+    "category": "inventory",
+    "description": "AI-powered restaurant back office used by 12,000+ restaurants: invoice automation coded by AI plus real people, daily P&L and price-change alerts, recipe costing, inventory counts, sales forecasting, and Tom, an AI assistant, with integrations for Toast, Square, NCR Aloha, SpotOn, QuickBooks and 7shifts.",
+    "pricing": "$350/mo per location (add-ons extra)",
+    "url": "https://www.marginedge.com/"
   }
 ]
