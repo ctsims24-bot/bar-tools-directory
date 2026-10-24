@@ -586,5 +586,13 @@
     "description": "AI-powered restaurant back office used by 12,000+ restaurants: invoice automation coded by AI plus real people, daily P&L and price-change alerts, recipe costing, inventory counts, sales forecasting, and Tom, an AI assistant, with integrations for Toast, Square, NCR Aloha, SpotOn, QuickBooks and 7shifts.",
     "pricing": "$350/mo per location (add-ons extra)",
     "url": "https://www.marginedge.com/"
+  },
+  {
+    "slug": "nory",
+    "name": "Nory",
+    "category": "ai",
+    "description": "Agentic AI restaurant operating system for multi-site operators: AI assistants for demand forecasting, auto-built schedules with US and European labor compliance, ordering suggestions, invoice reconciliation, payroll pay runs and review responses, with forecasting, scheduling, inventory, payroll and BI in one system.",
+    "pricing": "Quote-based; book a demo",
+    "url": "https://nory.ai/"
   }
 ]
