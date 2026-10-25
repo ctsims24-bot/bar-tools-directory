@@ -594,5 +594,13 @@
     "description": "Agentic AI restaurant operating system for multi-site operators: AI assistants for demand forecasting, auto-built schedules with US and European labor compliance, ordering suggestions, invoice reconciliation, payroll pay runs and review responses, with forecasting, scheduling, inventory, payroll and BI in one system.",
     "pricing": "Quote-based; book a demo",
     "url": "https://nory.ai/"
+  },
+  {
+    "slug": "push-operations",
+    "name": "Push Operations",
+    "category": "scheduling",
+    "description": "All-in-one payroll, HR and workforce management for restaurants, breweries, pubs and QSR: one-click payroll, auto-generated schedules with custom rules, mobile time tracking with facial-recognition clock-in to stop buddy punching, digital hiring and onboarding, and KPI alerts on labor and sales via POS integrations.",
+    "pricing": "Quote-based; book a demo",
+    "url": "https://www.pushoperations.com/"
   }
 ]
