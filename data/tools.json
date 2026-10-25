@@ -116,9 +116,11 @@
     "slug": "restaurant365",
     "name": "Restaurant365",
     "category": "inventory",
-    "description": "Restaurant accounting, inventory, scheduling and payroll in one back-office platform.",
+    "description": "Restaurant back office that brings accounting, inventory, scheduling, payroll and HR into one platform, with R365 AI features across accounting, inventory, payroll and workforce.",
     "pricing": "Subscription; quote-based",
-    "url": "https://www.restaurant365.com"
+    "url": "https://www.restaurant365.com",
+    "x": "Restaurant_365",
+    "team_note": "Proof point, per Restaurant365 on X: Urbane Cafe grew from 14 to 44 restaurants without hiring more finance staff, running accounting, inventory and scheduling on R365. Source: https://x.com/Restaurant_365/status/2111145207282516051"
   },
   {
     "slug": "craftable",
