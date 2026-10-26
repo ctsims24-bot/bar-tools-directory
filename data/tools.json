@@ -604,5 +604,16 @@
     "description": "All-in-one payroll, HR and workforce management for restaurants, breweries, pubs and QSR: one-click payroll, auto-generated schedules with custom rules, mobile time tracking with facial-recognition clock-in to stop buddy punching, digital hiring and onboarding, and KPI alerts on labor and sales via POS integrations.",
     "pricing": "Quote-based; book a demo",
     "url": "https://www.pushoperations.com/"
+  },
+  {
+    "slug": "crunchtime",
+    "name": "Crunchtime",
+    "category": "inventory",
+    "also": [
+      "scheduling"
+    ],
+    "description": "Restaurant operations management suite used by 850+ multi-unit restaurant brands: inventory and food cost management with actual-vs-theoretical (AvT) tracking and AI forecasting, labor scheduling and labor-law compliance, ops execution with temp monitoring and food prep labeling, kitchen management, guest management and Crunchtime Insights reporting.",
+    "pricing": "Quote-based; request a demo",
+    "url": "https://www.crunchtime.com/"
   }
 ]
