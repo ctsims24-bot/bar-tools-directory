@@ -615,5 +615,13 @@
     "description": "Restaurant operations management suite used by 850+ multi-unit restaurant brands: inventory and food cost management with actual-vs-theoretical (AvT) tracking and AI forecasting, labor scheduling and labor-law compliance, ops execution with temp monitoring and food prep labeling, kitchen management, guest management and Crunchtime Insights reporting.",
     "pricing": "Quote-based; request a demo",
     "url": "https://www.crunchtime.com/"
+  },
+  {
+    "slug": "tripleseat",
+    "name": "Tripleseat",
+    "category": "ordering",
+    "description": "Event and private-dining management for restaurants, bars, breweries, wineries and hotels, trusted by 20,000+ hospitality venues: captures and auto-routes event inquiries, sends proposals, contracts and BEOs, takes payments, with add-ons for 24/7 Direct Book self-serve booking, 2D/3D floor plans, ticketed events, a venue marketplace and Insights reporting.",
+    "pricing": "Starts at $375 per venue per month (unlimited users and integrations); add-ons priced individually",
+    "url": "https://tripleseat.com/"
   }
 ]
