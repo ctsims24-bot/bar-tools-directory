@@ -623,5 +623,21 @@
     "description": "Event and private-dining management for restaurants, bars, breweries, wineries and hotels, trusted by 20,000+ hospitality venues: captures and auto-routes event inquiries, sends proposals, contracts and BEOs, takes payments, with add-ons for 24/7 Direct Book self-serve booking, 2D/3D floor plans, ticketed events, a venue marketplace and Insights reporting.",
     "pricing": "Starts at $375 per venue per month (unlimited users and integrations); add-ons priced individually",
     "url": "https://tripleseat.com/"
+  },
+  {
+    "slug": "yellow-dog",
+    "name": "Yellow Dog Inventory",
+    "category": "inventory",
+    "description": "Back-office inventory system for food and beverage, concessions and retail operations, from single restaurants to multi-outlet venues (used by over half of professional sports teams): unlimited users and mobile apps, 300+ integrations with POS, vendors and accounting, Retriever invoice scanning, and live support weekdays with 24/7 emergency coverage.",
+    "pricing": "Single-restaurant F&B plan $295/month on a two-year contract (one store, one POS integration, unlimited scanned invoices, no upfront costs); larger operations priced by outlets and items",
+    "url": "https://yellowdogsoftware.com/"
+  },
+  {
+    "slug": "sauce",
+    "name": "Sauce",
+    "category": "ordering",
+    "description": "Online ordering and delivery platform for high-volume restaurants: branded website and online ordering, profitability-focused delivery with real-time support and dispute resolution, one workflow for all online and delivery orders, menu management, cashback loyalty, POS integration or tablet setup, AI phone answering and guest feedback follow-up.",
+    "pricing": "Sauce Premium $99 per location per month; Sauce Ultimate AI (adds SEO and map optimization, AI retention marketing, flyers and a branded app) is custom-quoted",
+    "url": "https://www.getsauce.com/"
   }
 ]
