@@ -639,5 +639,13 @@
     "description": "Online ordering and delivery platform for high-volume restaurants: branded website and online ordering, profitability-focused delivery with real-time support and dispute resolution, one workflow for all online and delivery orders, menu management, cashback loyalty, POS integration or tablet setup, AI phone answering and guest feedback follow-up.",
     "pricing": "Sauce Premium $99 per location per month; Sauce Ultimate AI (adds SEO and map optimization, AI retention marketing, flyers and a branded app) is custom-quoted",
     "url": "https://www.getsauce.com/"
+  },
+  {
+    "slug": "rezku",
+    "name": "Rezku POS",
+    "category": "pos",
+    "description": "Restaurant and bar POS backed by U.S.-based 24/7 support, with versions for bars, breweries, pizzerias, full and quick service and food trucks: industry-leading offline mode, easy check splitting, coupons and happy hour pricing, advanced modifiers, tip pooling, ingredient-level inventory, kitchen display, kiosk, QR and tableside ordering, branded online ordering, loyalty and gift cards, a manager's app and 100+ reports, plus unlimited training and free menu setup.",
+    "pricing": "Core $99/mo (up to 3 POS stations), Growth $199/mo (4 to 7 stations), Unlimited $299/mo (unlimited stations); hardware sold separately",
+    "url": "https://www.rezku.com/"
   }
 ]
