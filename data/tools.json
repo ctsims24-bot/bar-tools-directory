@@ -647,5 +647,13 @@
     "description": "Restaurant and bar POS backed by U.S.-based 24/7 support, with versions for bars, breweries, pizzerias, full and quick service and food trucks: industry-leading offline mode, easy check splitting, coupons and happy hour pricing, advanced modifiers, tip pooling, ingredient-level inventory, kitchen display, kiosk, QR and tableside ordering, branded online ordering, loyalty and gift cards, a manager's app and 100+ reports, plus unlimited training and free menu setup.",
     "pricing": "Core $99/mo (up to 3 POS stations), Growth $199/mo (4 to 7 stations), Unlimited $299/mo (unlimited stations); hardware sold separately",
     "url": "https://www.rezku.com/"
+  },
+  {
+    "slug": "connecteam",
+    "name": "Connecteam",
+    "category": "scheduling",
+    "description": "All-in-one employee app with a Food & Beverage track: GPS time clock with payroll integration, shift scheduling with open shifts, repeating shifts and templates, forms, checklists and tasks, plus team chat, updates, knowledge base, hiring and onboarding, training, time off and recognition hubs.",
+    "pricing": "Small Business plan free for up to 10 users; Operations Hub Basic $29/mo, Advanced $49/mo, Expert $99/mo for the first 30 users (billed yearly; monthly billing costs more); 14-day free trial",
+    "url": "https://connecteam.com/"
   }
 ]
