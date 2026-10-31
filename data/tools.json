@@ -655,5 +655,21 @@
     "description": "All-in-one employee app with a Food & Beverage track: GPS time clock with payroll integration, shift scheduling with open shifts, repeating shifts and templates, forms, checklists and tasks, plus team chat, updates, knowledge base, hiring and onboarding, training, time off and recognition hubs.",
     "pricing": "Small Business plan free for up to 10 users; Operations Hub Basic $29/mo, Advanced $49/mo, Expert $99/mo for the first 30 users (billed yearly; monthly billing costs more); 14-day free trial",
     "url": "https://connecteam.com/"
+  },
+  {
+    "slug": "ovation",
+    "name": "Ovation",
+    "category": "ordering",
+    "description": "Guest experience platform for restaurants, physical locations and ghost kitchens: frictionless guest feedback surveys, real-time guest recovery, operational insights by location, online review and reputation management, text marketing and call-to-text, segmentation and enterprise reporting with a dedicated manager.",
+    "pricing": "Custom pricing quoted within 24 hours; pay only for the features you need, with volume discounts",
+    "url": "https://www.ovationup.com/"
+  },
+  {
+    "slug": "thanx",
+    "name": "Thanx",
+    "category": "ordering",
+    "description": "Restaurant guest engagement platform for quick service, fast casual, table service and coffee brands: loyalty, branded digital ordering and apps, marketing automation, CRM and segmentation, targeted offer management, RecoveryAI automated guest recovery for first-party orders, reporting, a guest data platform and a public API.",
+    "pricing": "Custom; talk to sales",
+    "url": "https://www.thanx.com/"
   }
 ]

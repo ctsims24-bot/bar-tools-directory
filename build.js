@@ -12,7 +12,7 @@ const cats=[
  {slug:"scheduling",name:"Scheduling & Labor",blurb:"Staff scheduling, time clocks, tip pooling and team communication."},
  {slug:"wine-bar",name:"Wine & Bar Tools",blurb:"Wine lists, beverage menus, distributor ordering and wine/beer data."},
  {slug:"ai",name:"AI for Restaurants & Bars",blurb:"AI phone answering, voice ordering, forecasting and marketing."},
- {slug:"ordering",name:"Ordering, Delivery & Guest Tools",blurb:"Online ordering, delivery, ecommerce, reservations, gift cards and accounting sync."},
+ {slug:"ordering",name:"Ordering, Delivery & Guest Tools",blurb:"Online ordering, delivery, ecommerce, reservations, gift cards, loyalty, guest feedback, reviews and accounting sync."},
 {slug:"bar-equipment",name:"Bar Equipment",blurb:"Physical gear for bars and events: drink stations, waste handling and service-well equipment."}];
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const ticker=`<div class="tick"><div class="wrap">${sponsors.length?`<span class="muted">Sponsors:</span> ${sponsors.map(x=>`<a href="${esc(x.url)}" rel="sponsored noopener" target="_blank">${esc(x.name)}</a>${x.blurb?` <span class="muted">${esc(x.blurb)}</span>`:""}`).join(" · ")}`:`<a href="/sponsor/">Your tool here: sponsor BarStack</a>`}</div></div>`;
