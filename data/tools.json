@@ -671,5 +671,13 @@
     "description": "Restaurant guest engagement platform for quick service, fast casual, table service and coffee brands: loyalty, branded digital ordering and apps, marketing automation, CRM and segmentation, targeted offer management, RecoveryAI automated guest recovery for first-party orders, reporting, a guest data platform and a public API.",
     "pricing": "Custom; talk to sales",
     "url": "https://www.thanx.com/"
+  },
+  {
+    "slug": "jolt",
+    "name": "Jolt (SmartSense ONE)",
+    "category": "scheduling",
+    "description": "Restaurant operations platform, now part of SmartSense ONE: employee scheduling, time clock and team communication, digital checklists and SOPs, probe and sensor temperature logging for HACCP food safety, asset and condition monitoring sensors, work orders, digital audits with corrective actions, and cloud-based food labeling.",
+    "pricing": "Custom; request a demo",
+    "url": "https://www.jolt.com/"
   }
 ]
