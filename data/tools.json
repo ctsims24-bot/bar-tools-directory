@@ -679,5 +679,21 @@
     "description": "Restaurant operations platform, now part of SmartSense ONE: employee scheduling, time clock and team communication, digital checklists and SOPs, probe and sensor temperature logging for HACCP food safety, asset and condition monitoring sensors, work orders, digital audits with corrective actions, and cloud-based food labeling.",
     "pricing": "Custom; request a demo",
     "url": "https://www.jolt.com/"
+  },
+  {
+    "slug": "lavu",
+    "name": "Lavu",
+    "category": "pos",
+    "description": "iPad restaurant POS with kitchen display system, payment processing, Tap to Pay, dual pricing and online ordering, plus an AI assistant (Marty) that analyzes POS data for labor, pricing and margin opportunities.",
+    "pricing": "See vendor site; contact sales",
+    "url": "https://lavu.com"
+  },
+  {
+    "slug": "eat-app",
+    "name": "Eat App",
+    "category": "ordering",
+    "description": "Reservation platform for restaurants and bars with table management, waitlist, CRM and guest profiles, marketing tools, reports and integrations.",
+    "pricing": "See vendor site; request a demo",
+    "url": "https://www.eatapp.co"
   }
 ]
