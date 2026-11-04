@@ -1,5 +1,48 @@
 [
   {
+    "slug": "chai-espresso-martini",
+    "name": "Chai Espresso Martini",
+    "why_trending": "Called out as a fall 2026 coffee-cocktail trend and a National Espresso Day (Nov 23) pick.",
+    "ingredients": [
+      "Vodka (vanilla vodka per Feast + West)",
+      "Espresso",
+      "Coffee liqueur",
+      "Chai syrup"
+    ],
+    "spec_note": "No exact proportions published; build like an espresso martini with chai syrup as the sweetener.",
+    "sources": [
+      {
+        "name": "Weber Ranch, Fall 2026 Cocktail Trends (Oct 27, 2026)",
+        "url": "https://www.weberranch.com/stories/fall-2026-cocktail-trends"
+      },
+      {
+        "name": "Feast + West, Best November Drinks to Make This Month",
+        "url": "https://feastandwest.com/what-to-drink-in-november/"
+      }
+    ],
+    "updated": "2026-11-04"
+  },
+  {
+    "slug": "holiday-cranberry-negroni",
+    "name": "Holiday Cranberry Negroni",
+    "why_trending": "New on the 2026 holiday menu at Jock Lindsey's Hangar Bar (Disney Springs), running Nov 10–Jan 11.",
+    "ingredients": [
+      "Gin",
+      "Campari",
+      "Sweet vermouth",
+      "Cranberry juice",
+      "Simple syrup"
+    ],
+    "spec_note": "Ingredients per the published menu; proportions not published.",
+    "sources": [
+      {
+        "name": "WDWMagic, Jock Lindsey's Hangar Bar Holiday Menu 2026 (Nov 2, 2026)",
+        "url": "https://www.wdwmagic.com/dining/jock-lindsey's-hangar-bar/news/02nov2026-jock-lindsey-s-hangar-bar-holiday-menu-returns-to-disney-springs-for-2026.htm"
+      }
+    ],
+    "updated": "2026-11-04"
+  },
+  {
     "slug": "pumpkin-spice-espresso-martini",
     "name": "Pumpkin Spice Espresso Martini",
     "why_trending": "Bartenders are giving the espresso martini a pumpkin-spice fall twist. F&B Magazine calls the espresso martini's dominance unslowing and cites Delilah Miami's Pumpkin Espresso Martini; Delish quotes Pamela Wiznitzer making one with homemade pumpkin spice syrup and vodka.",
@@ -31,7 +74,7 @@
       "Mionetto prosecco",
       "Italicus bergamot liqueur",
       "Aperol",
-      "Pear pur\u00e9e"
+      "Pear purée"
     ],
     "spec_note": "Ingredients per F&B Magazine; no measurements published.",
     "sources": [
@@ -141,7 +184,7 @@
   {
     "slug": "hot-toddy",
     "name": "Hot Toddy",
-    "why_trending": "Bartenders name it a go-to fall drink (Delish); WhatDrink cites Google Trends data showing 'hot toddy' searches spike more than 300% Oct\u2013Dec.",
+    "why_trending": "Bartenders name it a go-to fall drink (Delish); WhatDrink cites Google Trends data showing 'hot toddy' searches spike more than 300% Oct–Dec.",
     "ingredients": [
       "50 ml whiskey (or other spirit)",
       "1 tsp honey",
@@ -230,26 +273,6 @@
     "updated": "2026-10-15"
   },
   {
-    "slug": "matcha-martini",
-    "name": "Matcha Martini",
-    "why_trending": "Called 'the drink to watch' this fall; made with YOSHI Matcha Liqueur and on PF Chang's menu as 'Autumn in Kyoto'. Matcha is also trending on X, where a summary says searches for 'how to make matcha' rose 1300% year over year.",
-    "ingredients": [
-      "YOSHI Matcha Liqueur"
-    ],
-    "spec_note": "Full specs not published in the source.",
-    "sources": [
-      {
-        "name": "USA Today 10Best, Bartenders say these fall cocktails are taking over this season",
-        "url": "https://10best.usatoday.com/food-drink/controversial-fall-cocktails-bartenders-recommend/"
-      },
-      {
-        "name": "X trending: Matcha Fans Share Colorful Drinks and Daily Rituals (Oct 2026)",
-        "url": "https://x.com/i/trending/2109723356731981980"
-      }
-    ],
-    "updated": "2026-10-15"
-  },
-  {
     "slug": "spiced-apple-shrub-soda-zero-proof",
     "name": "Spiced Apple Shrub Soda (zero-proof)",
     "why_trending": "WhatDrink says spiced apple shrub sodas have 'moved well past novelty' into seasonal staples; F&B Magazine notes rising demand for zero-proof fall drinks.",
@@ -267,20 +290,6 @@
       {
         "name": "Food & Beverage Magazine, Fall Cocktail Trends 2026",
         "url": "https://www.fb101.com/fall-cocktail-trends-2026-autumn-flavor-sips"
-      }
-    ],
-    "updated": "2026-10-15"
-  },
-  {
-    "slug": "lemon-drop",
-    "name": "Lemon Drop",
-    "why_trending": "Went viral on X around Oct 10, 2026 when a post about men ordering sweet drinks like lemon drops set off a big debate.",
-    "ingredients": [],
-    "spec_note": "Social trend only; no specs taken from this source.",
-    "sources": [
-      {
-        "name": "X trending: Lemon Drop Cocktails Spark Masculinity Drink Debate (Oct 2026)",
-        "url": "https://x.com/i/trending/2110123026352357413"
       }
     ],
     "updated": "2026-10-15"
