@@ -695,5 +695,21 @@
     "description": "Reservation platform for restaurants and bars with table management, waitlist, CRM and guest profiles, marketing tools, reports and integrations.",
     "pricing": "See vendor site; request a demo",
     "url": "https://www.eatapp.co"
+  },
+  {
+    "slug": "otter",
+    "name": "Otter",
+    "category": "ordering",
+    "description": "Multichannel restaurant POS and 'mission control' that manages delivery apps, orders and analytics from a single platform.",
+    "pricing": "See vendor site",
+    "url": "https://www.tryotter.com"
+  },
+  {
+    "slug": "olo",
+    "name": "Olo",
+    "category": "ordering",
+    "description": "Restaurant technology platform for integrated digital ordering, catering, payments, marketing and loyalty.",
+    "pricing": "See vendor site",
+    "url": "https://www.olo.com"
   }
 ]
