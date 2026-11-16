@@ -546,7 +546,7 @@
       "slug": "lavu",
       "name": "Lavu",
       "url": "https://lavu.com",
-      "tool_slug": null,
+      "tool_slug": "lavu",
       "integrations": [
         {
           "tool": "bevspot",
@@ -566,7 +566,7 @@
       "slug": "heartland",
       "name": "Heartland Restaurant",
       "url": "https://www.heartland.us/restaurant",
-      "tool_slug": null,
+      "tool_slug": "heartland-restaurant",
       "integrations": [
         {
           "tool": "bevspot",

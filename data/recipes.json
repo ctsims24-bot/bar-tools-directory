@@ -1,5 +1,51 @@
 [
   {
+    "slug": "cranberry-cooler",
+    "name": "Cranberry Cooler",
+    "why_trending": "Published Nov 15, 2026 by the Atlanta Journal-Constitution as a Thanksgiving parade-and-football spritz from Erik Ramirez, beverage manager at Kindred in Oak Grove. The AJC also notes a cranberry spritz can work without the booze.",
+    "ingredients": [
+      "1½ oz tequila",
+      "½ oz Aperol",
+      "½ oz cranberry juice",
+      "½ oz fresh lime juice",
+      "½ oz maple syrup",
+      "¼ oz apple cider vinegar",
+      "Soda water, to top",
+      "Garnish: lime wheel and rosemary sprig"
+    ],
+    "spec_note": "Shake tequila, Aperol, cranberry, lime, maple and vinegar with ice; strain into a wine glass over ice; top with soda. Garnish with a lime wheel and rosemary sprig. Recipe and measurements as published by the AJC.",
+    "sources": [
+      {
+        "name": "Atlanta Journal-Constitution, Expert cocktail recipes for your Thanksgiving table (Nov 15, 2026)",
+        "url": "https://www.ajc.com/food-and-dining/2026/11/thanksgiving-cocktail-recipes/"
+      }
+    ],
+    "updated": "2026-11-16"
+  },
+  {
+    "slug": "spiced-pear-manhattan",
+    "name": "Spiced Pear Manhattan",
+    "why_trending": "A Thanksgiving Manhattan from Jakob McCabe-Johnston of Kimball House, published Nov 15, 2026 by the Atlanta Journal-Constitution.",
+    "ingredients": [
+      "1 oz rye whiskey",
+      "¾ oz Punt e Mes",
+      "½ oz cognac",
+      "½ oz St. George spiced pear liqueur",
+      "½ oz St. George pear brandy",
+      "2 dashes Angostura bitters",
+      "2 dashes orange bitters",
+      "Garnish: orange peel"
+    ],
+    "spec_note": "Stir all ingredients with ice; strain into a chilled coupe; garnish with an orange twist. Specs as published by the AJC.",
+    "sources": [
+      {
+        "name": "Atlanta Journal-Constitution, Expert cocktail recipes for your Thanksgiving table (Nov 15, 2026)",
+        "url": "https://www.ajc.com/food-and-dining/2026/11/thanksgiving-cocktail-recipes/"
+      }
+    ],
+    "updated": "2026-11-16"
+  },
+  {
     "slug": "chai-espresso-martini",
     "name": "Chai Espresso Martini",
     "why_trending": "Called out as a fall 2026 coffee-cocktail trend and a National Espresso Day (Nov 23) pick.",

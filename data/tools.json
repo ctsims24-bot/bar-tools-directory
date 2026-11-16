@@ -19,7 +19,7 @@
     "slug": "clover",
     "name": "Clover",
     "category": "pos",
-    "description": "Countertop and handheld POS hardware from Fiserv with apps for table service and bars.",
+    "description": "Countertop and handheld POS hardware from Fiserv with apps for table service and bars. BentoBox's restaurant marketing and commerce platform is now part of the Clover ecosystem; new BentoBox services are currently available only to Clover POS customers.",
     "pricing": "Hardware + monthly software plans",
     "url": "https://www.clover.com"
   },
@@ -711,5 +711,21 @@
     "description": "Restaurant technology platform for integrated digital ordering, catering, payments, marketing and loyalty.",
     "pricing": "See vendor site",
     "url": "https://www.olo.com"
+  },
+  {
+    "slug": "heartland-restaurant",
+    "name": "Heartland Restaurant",
+    "category": "pos",
+    "description": "Cloud-based restaurant POS for dine-in, takeout and delivery, with a kitchen display system, QR order-and-pay, online ordering, pay-at-table and contactless payments, plus a guest app for loyalty and waitlist, gift cards, time and attendance, shift scheduling and multi-location management.",
+    "pricing": "Plans start at $89/month",
+    "url": "https://www.heartland.us/restaurant"
+  },
+  {
+    "slug": "paytronix",
+    "name": "Paytronix",
+    "category": "ordering",
+    "description": "Digital guest engagement platform for restaurants and convenience stores. The Guest Engagement Suite combines loyalty programs, online ordering, omnichannel messaging, AI insights and payments, plus catering, gift and comp management, CRM and a branded or custom guest app. Lists 500+ integration partners.",
+    "pricing": "Custom; contact sales",
+    "url": "https://www.paytronix.com/"
   }
 ]
