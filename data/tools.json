@@ -727,5 +727,21 @@
     "description": "Digital guest engagement platform for restaurants and convenience stores. The Guest Engagement Suite combines loyalty programs, online ordering, omnichannel messaging, AI insights and payments, plus catering, gift and comp management, CRM and a branded or custom guest app. Lists 500+ integration partners.",
     "pricing": "Custom; contact sales",
     "url": "https://www.paytronix.com/"
+  },
+  {
+    "slug": "supy",
+    "name": "Supy",
+    "category": "inventory",
+    "description": "Inventory and procurement software for multi-branch F&B operators, from QSRs to bars and pubs. AI-enabled requisitions, purchase orders and approval workflows, faster stock counts with AI variance explanations, invoice matching, recipe and portion control, batch production, plus Supy Ops checklists and Supy Intelligence insights. Integrates with POS, accounting, ERP and workforce tools; says it is used by 5,000+ restaurants in 50+ countries.",
+    "pricing": "Custom; contact sales",
+    "url": "https://supy.io/"
+  },
+  {
+    "slug": "sunday",
+    "name": "sunday",
+    "category": "ordering",
+    "description": "QR code pay-at-table and ordering platform for restaurants and bars. sunday Pay digital bill, sunday Ordering, Smart Handheld card terminals, POS-integrated Click & Collect, an AI Menu, customer analytics and a branded guest app with loyalty. Integrates with POS and delivery tools; says 5,000+ restaurants use it.",
+    "pricing": "Custom; contact sales",
+    "url": "https://sundayapp.com/"
   }
 ]
