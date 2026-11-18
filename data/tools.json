@@ -743,5 +743,21 @@
     "description": "QR code pay-at-table and ordering platform for restaurants and bars. sunday Pay digital bill, sunday Ordering, Smart Handheld card terminals, POS-integrated Click & Collect, an AI Menu, customer analytics and a branded guest app with loyalty. Integrates with POS and delivery tools; says 5,000+ restaurants use it.",
     "pricing": "Custom; contact sales",
     "url": "https://sundayapp.com/"
+  },
+  {
+    "slug": "fresh-kds",
+    "name": "Fresh KDS",
+    "category": "ordering",
+    "description": "Tablet-based kitchen display system that organizes orders and station workflows, shows live shift performance and turns kitchen data into reports across locations. Built for food trucks, cafes, fast casual, casual dining and breweries, with an Enterprise tier for multi-location brands and remote screen management. Says 10,000+ restaurants use it.",
+    "pricing": "Free to start; paid plans and Enterprise",
+    "url": "https://www.freshkds.com/"
+  },
+  {
+    "slug": "galley",
+    "name": "Galley",
+    "category": "inventory",
+    "description": "Culinary resource planning (CRP) system for kitchens that ties recipes and kitchen creativity to operations and financial accuracy. Newest addition: Recipe Book for creating, managing and teaching recipes.",
+    "pricing": "Custom; book a demo",
+    "url": "https://www.galleysolutions.com/"
   }
 ]
