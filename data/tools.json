@@ -759,5 +759,21 @@
     "description": "Culinary resource planning (CRP) system for kitchens that ties recipes and kitchen creativity to operations and financial accuracy. Newest addition: Recipe Book for creating, managing and teaching recipes.",
     "pricing": "Custom; book a demo",
     "url": "https://www.galleysolutions.com/"
+  },
+  {
+    "slug": "planday",
+    "name": "Planday",
+    "category": "scheduling",
+    "description": "Workforce management platform for shift-based teams, including hospitality. AI Auto Schedule builds rotas in seconds and Intelligent Shift Assignment ranks the best cover options (also accessible through ChatGPT and Claude), plus a mobile employee app, team messaging, time tracking for payroll, working-time compliance rules, and staffing reports and forecasts.",
+    "pricing": "Per user/month (Starter, min. 5 users; Plus); Pro custom; 30-day free trial",
+    "url": "https://www.planday.com/"
+  },
+  {
+    "slug": "bar-i",
+    "name": "BAR-I",
+    "category": "inventory",
+    "description": "Liquid bar inventory system that pairs software with live setup and processing support on every count. Uses Bluetooth scales, wireless barcode scanning and layered error checks for results down to the tenth of an ounce and per-serving variance; says you can count up to 500 items an hour.",
+    "pricing": "Contact for pricing",
+    "url": "https://www.bar-i.com/"
   }
 ]
