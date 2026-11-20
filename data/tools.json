@@ -775,5 +775,21 @@
     "description": "Liquid bar inventory system that pairs software with live setup and processing support on every count. Uses Bluetooth scales, wireless barcode scanning and layered error checks for results down to the tenth of an ounce and per-serving variance; says you can count up to 500 items an hour.",
     "pricing": "Contact for pricing",
     "url": "https://www.bar-i.com/"
+  },
+  {
+    "slug": "loman-ai",
+    "name": "Loman AI",
+    "category": "ai",
+    "description": "24/7 voice AI phone agent for restaurants that takes pickup and delivery orders, books reservations, answers menu and allergen questions and takes payments over the phone, syncing tickets to your POS and reservation systems. Supports 55 languages, handles unlimited simultaneous calls and hands edge cases to staff.",
+    "pricing": "See vendor site",
+    "url": "https://www.loman.ai/"
+  },
+  {
+    "slug": "bevchek",
+    "name": "Bevchek",
+    "category": "inventory",
+    "description": "Draft beer management and monitoring: sensors on every line track flow, temperature and pressure, with live keg levels, depletion forecasts and foam or temperature alerts. Reconciles every ounce poured against POS sales nightly (Toast, Square, Micros and more).",
+    "pricing": "See vendor site",
+    "url": "https://www.bevchek.com/"
   }
 ]
