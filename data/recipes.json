@@ -1,5 +1,29 @@
 [
   {
+    "slug": "cranberry-old-fashioned",
+    "name": "Cranberry Old Fashioned",
+    "why_trending": "Published Nov 19, 2026 by Food & Wine as a three-ingredient Thanksgiving Old Fashioned that uses leftover homemade cranberry sauce. Also featured Nov 20 in F&W's \"3 Simple Cocktails to Serve This Thanksgiving\" as the dinner pour.",
+    "ingredients": [
+      "2 oz bourbon",
+      "1 tablespoon homemade cranberry sauce",
+      "4 dashes orange bitters",
+      "Garnish: orange peel",
+      "Optional garnish: 3 fresh cranberries"
+    ],
+    "spec_note": "Add bourbon, cranberry sauce and bitters to a mixing glass filled with ice; stir until well chilled, about 20 seconds. Strain into a rocks glass over one large ice cube. Express an orange peel over the drink and add it to the glass; optionally garnish with three fresh cranberries. Recipe and measurements as published by Food & Wine.",
+    "sources": [
+      {
+        "name": "Food & Wine, Cranberry Old Fashioned (Nov 19, 2026)",
+        "url": "https://www.foodandwine.com/cranberry-old-fashioned-cocktail-recipe-12262106"
+      },
+      {
+        "name": "Food & Wine, 3 Simple Cocktails to Serve This Thanksgiving (Nov 20, 2026)",
+        "url": "https://www.foodandwine.com/3-simple-thanksgiving-cocktails-12265093"
+      }
+    ],
+    "updated": "2026-11-23"
+  },
+  {
     "slug": "cranberry-cooler",
     "name": "Cranberry Cooler",
     "why_trending": "Published Nov 15, 2026 by the Atlanta Journal-Constitution as a Thanksgiving parade-and-football spritz from Erik Ramirez, beverage manager at Kindred in Oak Grove. The AJC also notes a cranberry spritz can work without the booze.",
