@@ -791,5 +791,21 @@
     "description": "Draft beer management and monitoring: sensors on every line track flow, temperature and pressure, with live keg levels, depletion forecasts and foam or temperature alerts. Reconciles every ounce poured against POS sales nightly (Toast, Square, Micros and more).",
     "pricing": "See vendor site",
     "url": "https://www.bevchek.com/"
+  },
+  {
+    "slug": "bar-voice-count",
+    "name": "Bar Voice Count",
+    "category": "inventory",
+    "description": "Voice-powered speed tool for bar inventory and vendor orders: walk the bar and say each product and level in any order, and it totals the same bottle across spots (traceable to each spot) and sequences totals to match your existing inventory system (e.g. Restaurant365, CrunchTime or a spreadsheet). Drafts text and email vendor orders from counts against pars, with reminders. iPhone and Android.",
+    "pricing": "$39/mo or $399/yr, one plan; 14-day free trial",
+    "url": "https://barvoicecount.com/"
+  },
+  {
+    "slug": "stockcount",
+    "name": "Stockcount",
+    "category": "inventory",
+    "description": "Voice bar inventory: walk the well, back bar and walk-in and say what you see (partial bottles by tenths, cases, kegs). AI parses photographed, PDF or emailed distributor invoices to update bottle and pour cost, and reports weekly beverage cost and theoretical vs. actual variance by liquor, beer and wine. Counter role hides cost data; works without a POS integration.",
+    "pricing": "Pro $49/mo, Business $149/mo; month-to-month",
+    "url": "https://stockcount.io/"
   }
 ]
