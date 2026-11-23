@@ -1,0 +1,102 @@
+{
+  "updated": "2026-11-23",
+  "guides": [
+    {
+      "slug": "how-to-calculate-pour-cost",
+      "title": "How to Calculate Pour Cost for Your Bar (2026)",
+      "h1": "How to calculate pour cost for your bar",
+      "desc": "Pour cost, also called liquor cost, is (opening inventory + purchases − ending inventory) ÷ sales. Walk through the formula, a worked example, and inventory tools that help you get the inputs.",
+      "query": "how to calculate pour cost",
+      "kicker": "Inventory guide",
+      "intro": "Pour cost (also called liquor cost, beverage cost, or beverage COGS) is the share of your drink sales that went to the product you actually used. The inputs are a starting count, purchases, an ending count, and sales for the same period. Purchases alone are not usage.",
+      "sections": [
+        {
+          "h2": "The pour cost formula",
+          "html": "<p>Toast's liquor cost guide writes the formula as <b>(OI + P − EI) / S = PC</b>, where OI is opening inventory, P is purchases, EI is ending inventory, S is sales in that category, and PC is pour cost (also called COGS).</p><p>They walk through this weekly liquor example:</p><ul><li>Opening inventory: $1,906</li><li>Purchases: $6,398</li><li>Ending inventory: $2,425</li><li>Usage: $1,906 + $6,398 − $2,425 = $5,879</li><li>Liquor sales: $23,000</li><li>Pour cost: $5,879 ÷ $23,000 = <b>25.56%</b></li></ul><p>In that example, about 25 cents of every liquor sales dollar went to the product used. A good target varies by concept; use this math on your own numbers rather than copying a generic benchmark.</p><p class=\"muted\">Source: <a href=\"https://pos.toasttab.com/blog/on-the-line/how-to-calculate-liquor-cost\" target=\"_blank\" rel=\"noopener\">Toast, “How To Calculate Liquor Cost in Your Bar or Restaurant”</a>.</p>"
+        },
+        {
+          "h2": "Get the four inputs in the same week",
+          "html": "<p>The formula only works if all four numbers cover the same period. Toast's guide recommends a weekly bar inventory so you can see variance and the relationship between purchasing and sales sooner than a month-end close. It also flags consistency: count the same way each week, and keep a record of breakage, comps, and spills so usage is not a mystery.</p><p>Two gaps break the story:</p><ul><li><b>Counts without invoices.</b> You know what is on the shelf, but not what arrived during the week, so usage is understated or overstated.</li><li><b>Invoices without counts.</b> You know what you bought, but not what was used. Purchases are not pour cost.</li></ul>"
+        },
+        {
+          "h2": "Tools in our directory that help collect the inputs",
+          "html": "<p>These listings are from our inventory directory. Check each vendor for current pricing and plan limits.</p>"
+        }
+      ],
+      "tool_slugs": ["stockcount", "lixor", "wisk", "bevchek", "backbar", "xtrachef-by-toast"],
+      "faq": [
+        ["What is pour cost?", "Pour cost is the cost of the beverage product you used in a period, divided by beverage sales for the same period. Toast also calls this liquor cost, beverage cost, or COGS."],
+        ["What is the pour cost formula?", "Opening inventory plus purchases, minus ending inventory, divided by sales: (OI + P − EI) / S. Toast's worked example uses $1,906 opening, $6,398 purchases, $2,425 ending, and $23,000 in liquor sales, which equals 25.56%."],
+        ["How often should a bar calculate pour cost?", "Toast's liquor cost guide recommends a weekly bar inventory so you can see variance and purchasing against sales in days, not at month-end."],
+        ["Do I need a POS integration to calculate pour cost?", "No. You need accurate counts, purchases, and sales for the same period. Some tools, such as Stockcount, are listed as working without a POS integration (you still need a sales total). Others, such as Lixor's Premium plan, add POS integration for variance and pour cost."]
+      ],
+      "see_also": [
+        ["/category/inventory/", "See all inventory and costing tools"],
+        ["/compare/best-bar-inventory-apps/", "Compare bar inventory apps: pricing and what operators say"],
+        ["/integrations/", "See which tools work with your POS"]
+      ]
+    },
+    {
+      "slug": "pos-for-small-bars",
+      "title": "Best POS Systems for Small Bars (2026)",
+      "h1": "POS systems for small bars, compared from our directory",
+      "desc": "Compare POS systems used by small bars and restaurants, with listed pricing notes for Square, Heartland, Rezku, Toast, Clover and others, plus a POS integrations map.",
+      "query": "POS for small bars",
+      "kicker": "POS guide",
+      "intro": "There is no single best POS for every small bar. This guide compares systems already in our directory, using only the pricing and product notes in those listings, and points you to the integrations map so you can see which inventory and scheduling tools work with each one. We do not rank a winner, and we do not have independent review scores. Check each vendor for current pricing, hardware costs, and contract terms.",
+      "sections": [
+        {
+          "h2": "What to look for in a small-bar POS",
+          "html": "<p>Before you sign, match the system to how your room actually runs:</p><ul><li><b>Tabs, splits and happy hour.</b> Look for tab management, check splitting and scheduled pricing if those are nightly work.</li><li><b>Payments and hardware.</b> Some listings start with a free software plan and add paid hardware; others bundle hardware with a monthly software plan. Ask for the all-in cost for the number of stations you need.</li><li><b>Offline mode.</b> A packed Friday should not stop if the internet drops. Rezku's listing, for example, calls out offline mode.</li><li><b>Inventory and scheduling connections.</b> A POS that cannot share sales with your inventory or labor tools leaves you re-keying reports. Use our <a href=\"/integrations/\">POS integrations map</a>, which only lists connections we found on official vendor or POS pages.</li><li><b>Fit vs. enterprise.</b> Oracle MICROS Simphony is listed as an enterprise POS used by hotels, stadiums and large restaurant groups, so it is usually the wrong starting point for a single small bar. Arryved is listed as built for breweries, taprooms, wineries and craft beverage venues.</li></ul>"
+        },
+        {
+          "h2": "POS systems in our directory with published starting prices or a free plan",
+          "html": "<p>These are the listings that name a starting price or a free plan. Quote-based systems are in the next section.</p>"
+        }
+      ],
+      "tool_slugs": ["square-for-restaurants", "heartland-restaurant", "rezku"],
+      "extra_heading": "Quote-based POS systems also used by bars",
+      "extra_intro": "These listings do not publish a starting price in our directory. Ask for a quote that includes software, hardware, payments and any required add-ons.",
+      "extra_slugs": ["toast", "clover", "touchbistro", "spoton", "lavu", "lightspeed-restaurant", "arryved"],
+      "faq": [
+        ["What is the cheapest POS for a small bar?", "In our listings, Square for Restaurants is the only POS that names a free plan (paid tiers are also available). Heartland Restaurant lists plans starting at $89/month, and Rezku lists Core at $99/month for up to three POS stations, with hardware sold separately. Always confirm hardware, payment processing and contract terms with the vendor."],
+        ["Which POS is best for a taproom or brewery?", "Arryved is listed as a POS built for breweries, taprooms, wineries and craft beverage venues. Other restaurant POS systems may still fit; ask about flights, growlers and age verification."],
+        ["How do I see which inventory tools work with a POS?", "Open our POS integrations map and pick your system. Each connection links to the official vendor or POS page we used as the source. Unconfirmed integrations are omitted."],
+        ["Should a small bar start with an enterprise POS?", "Usually no. Oracle MICROS Simphony is listed for hotels, stadiums and large restaurant groups. Start with a system whose pricing and support model matches one or two rooms, then confirm the integrations you need."]
+      ],
+      "see_also": [
+        ["/category/pos/", "See all POS systems"],
+        ["/integrations/", "See which tools work with your POS"],
+        ["/guides/how-to-calculate-pour-cost/", "How to calculate pour cost"]
+      ]
+    },
+    {
+      "slug": "voice-bar-inventory-apps",
+      "title": "Voice Bar Inventory Apps (2026): Bar Voice Count, Stockcount and Lixor",
+      "h1": "Voice bar inventory apps: Bar Voice Count, Stockcount and Lixor",
+      "desc": "Compare three voice bar inventory apps in our directory: Bar Voice Count ($39/mo), Stockcount (from $49/mo) and Lixor (from $59/mo), including whether each needs a POS.",
+      "query": "voice bar inventory app",
+      "kicker": "Inventory guide",
+      "intro": "Three tools in our inventory directory let you walk the bar and speak counts instead of typing them. They are not interchangeable. One is a speed layer that feeds the inventory system you already use. The others are inventory systems in their own right, with different stands on invoices, scales and POS connections. Facts below come from our listings; check each vendor for current pricing.",
+      "sections": [
+        {
+          "h2": "The three voice-count tools in our directory",
+          "html": "<p>Other inventory apps in the directory may use scales, sliders or barcodes, but these three are the ones whose listings describe voice counting.</p>"
+        }
+      ],
+      "tool_slugs": ["bar-voice-count", "stockcount", "lixor"],
+      "after_tools_html": "<h2>How they differ</h2><ul><li><b>Replace vs. feed your current system.</b> Bar Voice Count is listed as a speed tool that totals bottles across spots and sequences those totals to match a system you already type into, such as Restaurant365, CrunchTime or a spreadsheet. Stockcount and Lixor are listed as inventory apps that keep the count, cost and variance work in their own product.</li><li><b>POS integration.</b> Stockcount is listed as working without a POS integration. Lixor's Premium plan adds POS integration with Toast, Givex and Union for variance and pour cost. Bar Voice Count's listing does not name a POS integration; it is built to hand totals back to the system you already use.</li><li><b>Invoices and cost.</b> Stockcount's listing includes AI invoice capture (photo, PDF or email) to update bottle and pour cost, plus weekly beverage cost and theoretical vs. actual variance by liquor, beer and wine. Lixor Premium is listed for variance and pour cost once POS is connected. Bar Voice Count's listing focuses on counts and vendor order drafts from pars, not invoice parsing.</li><li><b>Listed pricing.</b> Bar Voice Count: $39/mo or $399/yr, one plan, 14-day free trial. Stockcount: Pro $49/mo, Business $149/mo, month-to-month. Lixor: Essentials $59/mo, Teams $129/mo, Premium $219/mo, with a 30-day free trial and no card required.</li></ul>",
+      "faq": [
+        ["Which voice inventory app is cheapest?", "Among the three listings, Bar Voice Count has the lowest published price at $39/month (or $399/year) on one plan. Stockcount starts at $49/month (Pro) and Lixor starts at $59/month (Essentials). Features are not the same at those price points."],
+        ["Do I have to replace my current inventory system?", "Not necessarily. Bar Voice Count is listed as a speed tool that sequences totals to match the inventory system you already use. Stockcount and Lixor are listed as full inventory apps."],
+        ["Do I need a POS integration for a voice count app?", "No. Stockcount is listed as working without a POS integration. Lixor adds POS integration on its Premium plan. Bar Voice Count is listed as handing sequenced totals to your existing system or a spreadsheet."],
+        ["Can a voice app also read distributor invoices?", "Stockcount's listing says it parses photographed, PDF or emailed distributor invoices to update bottle and pour cost. The Bar Voice Count and Lixor listings do not describe invoice scanning."]
+      ],
+      "see_also": [
+        ["/category/inventory/", "See all inventory and costing tools"],
+        ["/compare/best-bar-inventory-apps/", "Compare bar inventory apps: pricing and what operators say"],
+        ["/guides/how-to-calculate-pour-cost/", "How to calculate pour cost"]
+      ]
+    }
+  ]
+}
