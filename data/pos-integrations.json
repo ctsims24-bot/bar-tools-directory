@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20",
+  "updated": "2026-11-23",
   "method": "Each integration is listed on the tool vendor's official integrations/partners page or the POS's official marketplace/integration docs (source linked). Unconfirmed integrations are omitted.",
   "pos": [
     {
@@ -261,6 +261,10 @@
         {
           "tool": "7shifts",
           "source": "https://www.7shifts.com/integrations/clover/"
+        },
+        {
+          "tool": "backbar",
+          "source": "https://www.getbackbar.com/partners/clover"
         }
       ]
     },
@@ -638,6 +642,10 @@
           "tool": "sling",
           "source": "https://getsling.com/integrations/",
           "note": "Listed as Harbortouch POS"
+        },
+        {
+          "tool": "backbar",
+          "source": "https://www.getbackbar.com/partners/shift4"
         }
       ]
     },
