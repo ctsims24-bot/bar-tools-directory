@@ -823,5 +823,13 @@
     "description": "AI virtual concierge for restaurants: answers every call, text and email in your restaurant's voice with custom prompts, lets guests view menus, book reservations and place takeout orders, and puts calls, texts, email, Instagram and Google Maps messages in one mobile-first inbox with live transcripts and the option for staff to jump in. Multilingual on higher plans.",
     "pricing": "Essential, Premium and Hospitality Plus plans; pricing on request",
     "url": "https://www.hostie.ai/"
+  },
+  {
+    "slug": "kickfin",
+    "name": "Kickfin",
+    "category": "scheduling",
+    "description": "Tip management software for restaurants: automates tip pooling and tip shares with real-time POS data (policies by shift, hours, points and sales categories) and sends instant, cashless tip payouts to employees' bank of choice, with reporting by location, shift and employee. Direct integrations with leading POS systems, including Toast.",
+    "pricing": "Pricing on request; no contracts or setup fees",
+    "url": "https://kickfin.com/"
   }
 ]
